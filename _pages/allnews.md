@@ -1,4 +1,5 @@
 ---
+title: "MaVILab - News"
 title: "News"
 layout: textlay
 excerpt: "Allan Lab at Leiden University."

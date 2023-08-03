@@ -2592,7 +2592,7 @@ figcaption { text-align: right; margin-top: -20px; margin-bottom: 20px; }
 /* Top navigation bar */
 p.byline { text-align: center; font-size: 18px; line-height: 36px; margin-top: -24px; margin-bottom: 48px; }
 
-pubtit { font-weight: bold; }
+pubtit { font-weight: bolder; }
 
 .container-fluid { margin-right: auto; margin-left: auto; max-width: 1000px; /* or 950px */ }
 

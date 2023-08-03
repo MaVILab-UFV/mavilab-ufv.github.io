@@ -1,5 +1,6 @@
 ---
 title: "MaVILab - Publications"
+subtitle: "Publications"
 layout: gridlay
 excerpt: "MaVILabb -- Publications."
 sitemap: false
@@ -8,8 +9,6 @@ permalink: /publications/
 
 
 # Publications
-
-**Under construction**
 
 <!-- ## Group highlights -->
 
@@ -50,6 +49,13 @@ permalink: /publications/
 {% endif %}
 
 <p> &nbsp; </p>
+
+{% for publi in site.data.publist %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
 
 <!--
 ## Patents

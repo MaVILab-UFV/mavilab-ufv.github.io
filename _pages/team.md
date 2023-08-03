@@ -1,5 +1,6 @@
 ---
 title: "MaVILab - Team"
+subtitle: "Team"
 layout: gridlay
 excerpt: "MaVILab: Team members"
 sitemap: false
