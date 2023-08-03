@@ -52,8 +52,16 @@ permalink: /publications/
 
 {% for publi in site.data.publist %}
 
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <strong>{{ publi.title }}</strong> <br />
+  <em>{{ publi.authors }} </em><br />{{ publi.link.display }}  
+  {% if publi.link.doi %}
+  <a href="{{ publi.link.doi }}" title="Link to DOI of the publication"><i class="ai ai-fw ai-doi" aria-hidden="true"></i></a> &nbsp;
+  {% endif %} {% if publi.link.youtube %} <a href="{{ publi.link.youtube }}" title="Link to YouTube work video"> <i class="fa fa-youtube fa-1x" aria-hidden="true"></i></a> &nbsp;
+  {% endif %} {% if publi.link.github  %} <a href="{{ publi.link.github }}" title="Link to GitHub work project"><i class="fa fa-github fa-1x" aria-hidden="true"></i></a> &nbsp;
+  {% endif %} {% if publi.link.arxiv %} <a href="{{ publi.link.arxiv }}" title="Link to ArXiv publication"><i class="ai ai-fw ai-arxiv" aria-hidden="true"></i></a> &nbsp;
+  {% endif %} {% if publi.link.url %} <a href="{{ publi.link.url }}" title="Link to official work website"><i class="fa fa-fw fa-link" aria-hidden="true"></i></a> &nbsp;
+  {% endif %}
+
 
 {% endfor %}
 
