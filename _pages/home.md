@@ -7,7 +7,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a research group focused on Computer Vision and Machine Intelligence (MaVILab - Machine Vision and Intelligence Laboratory) of the Department of Informatics (DPI) at Universidade Federal de Viçosa (UFV). The lab is located in Viçosa, MG, Brazil.<i class="fa fa-link fa-1x" aria-hidden="true"></i>  
+We are a research group focused on Computer Vision and Machine Intelligence (MaVILab - Machine Vision and Intelligence Laboratory) of the Department of Informatics (DPI) at Universidade Federal de Viçosa (UFV). The lab is located in Viçosa, MG, Brazil.  
 
 Our research interests involve the capture, processing and analysis of visual data, as well as the use of computational intelligence for problem solving, whether applied problems or the development of new methodologies.  
 
