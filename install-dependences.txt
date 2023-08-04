@@ -1,0 +1,5 @@
+sudo apt-get install ruby-bundler
+sudo apt-get install ruby-dev
+
+
+gem install eventmachine -v '1.2.7'

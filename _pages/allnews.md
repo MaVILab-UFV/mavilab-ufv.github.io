@@ -1,6 +1,6 @@
 ---
 title: "MaVILab - News"
-title: "News"
+subtitle: "News"
 layout: textlay
 excerpt: "Allan Lab at Leiden University."
 sitemap: false
@@ -10,6 +10,6 @@ permalink: /allnews.html
 # News
 
 {% for article in site.data.news %}
-{{ article.date }} <br />
+<strong>{{ article.date }}</strong> <br />
 {{ article.headline | markdownify}}
 {% endfor %}

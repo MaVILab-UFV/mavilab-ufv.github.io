@@ -46,8 +46,8 @@ To this end, we propose and evaluate the development of methods, algorithms and 
 We are grateful for funding from FAPEMIG, CAPES, CNPq, PPGCC-UFV and DPI-UFV.
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/fapemig.jpg" style="width: 110px"> 
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/capes.png" style="width: 110px"> 
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cnpq.png" style="width: 110px"> 
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dpi.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/fapemig.jpg" style="width: 110px; margin-right:25px"> 
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/capes.png" style="width: 110px; margin-right:25px"> 
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cnpq.png" style="width: 110px; margin-right:25px"> 
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dpi.jpg" style="width: 110px;">
 </figure>
