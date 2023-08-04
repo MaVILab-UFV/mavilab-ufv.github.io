@@ -12,72 +12,32 @@ permalink: /publications/
 
 <!-- ## Group highlights -->
 
-{% assign number_printed = 0 %}
-{% for publi in site.data.publist %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if publi.highlight == 1 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
- <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
- </div>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endif %}
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
 <p> &nbsp; </p>
 
-{% for publi in site.data.publist %}
+{% for years in site.data.publist %}
+<h4>{{ years.year }}</h4>
 
-  <strong>{{ publi.title }}</strong> <br />
-  <em>{{ publi.authors }} </em><br />{{ publi.link.display }}  
-  {% if publi.link.doi %}
-  <a href="{{ publi.link.doi }}" title="Link to DOI of the publication"><i class="ai ai-fw ai-doi" aria-hidden="true"></i></a> &nbsp;
-  {% endif %} {% if publi.link.youtube %} <a href="{{ publi.link.youtube }}" title="Link to YouTube work video"> <i class="fa fa-youtube fa-1x" aria-hidden="true"></i></a> &nbsp;
-  {% endif %} {% if publi.link.github  %} <a href="{{ publi.link.github }}" title="Link to GitHub work project"><i class="fa fa-github fa-1x" aria-hidden="true"></i></a> &nbsp;
-  {% endif %} {% if publi.link.arxiv %} <a href="{{ publi.link.arxiv }}" title="Link to ArXiv publication"><i class="ai ai-fw ai-arxiv" aria-hidden="true"></i></a> &nbsp;
-  {% endif %} {% if publi.link.url %} <a href="{{ publi.link.url }}" title="Link to official work website"><i class="fa fa-fw fa-link" aria-hidden="true"></i></a> &nbsp;
-  {% endif %}
-
-
-{% endfor %}
-
-<!--
-## Patents
-<em>Milan P Allan, S Gröblacher, RA Norte, M Leeuwenhoek</em><br />Novel atomic force microscopy probes with phononic crystals<br /> PCT/NL20-20/050797 (2020)
-
-<em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a>
-
-## Full List of publications
-
-{% for publi in site.data.publist %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{% for publi in years.pubs %}
+<p>
+<strong>{{ publi.title }}</strong> <br />
+<em>{{ publi.authors }} </em><br />
+{{ publi.media }}<br />
+{% if publi.links.doi %}
+<a href="{{ publi.links.doi }}" title="Link to DOI of the publication"><i class="ai ai-fw ai-doi" aria-hidden="true"></i></a> &nbsp;
+{% endif %}
+{% if publi.links.youtube %}
+<a href="{{ publi.links.youtube }}" title="Link to YouTube work video"> <i class="fa fa-youtube fa-1x" aria-hidden="true"></i></a> &nbsp;
+{% endif %}
+{% if publi.links.github  %}
+<a href="{{ publi.links.github }}" title="Link to GitHub work project"><i class="fa fa-github fa-1x" aria-hidden="true"></i></a> &nbsp;
+{% endif %}
+{% if publi.links.arxiv %}
+<a href="{{ publi.links.arxiv }}" title="Link to ArXiv publication"><i class="ai ai-fw ai-arxiv" aria-hidden="true"></i></a> &nbsp;
+{% endif %}
+{% if publi.links.url %}
+<a href="{{ publi.links.url }}" title="Link to official work website"><i class="fa fa-fw fa-link" aria-hidden="true"></i></a> &nbsp;
+{% endif %}
+</p>
 
 {% endfor %}
-
--->
+{% endfor %}

@@ -1,41 +1,33 @@
-- title: "A soybean seedlings dataset for soil condition and genotype classification."
-  image: 
-  description: 
-  authors: Bruno Nascimento, Marcos Ribeiro, Laércio Silva, Nayara Capobiango,Michel Silva
-  link:
-    url: https://sol.sbc.org.br/index.php/sibgrapi/article/view/22900
-    doi: https://doi.org/10.1016/j.patrec.2022.08.014
-    arxiv: 
-    youtube: 
-    github: https://github.com/MaVILab-UFV/soybean-seedling-dataset_SIBGRAPI_2022
-    display: 35th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), 2022
-  highlight: 0
-  news2: 
+- year : 2022
+  pubs:
+  - title: "A soybean seedlings dataset for soil condition and genotype classification."
+    authors: Bruno Nascimento, Marcos Ribeiro, Laércio Silva, Nayara Capobiango, Michel Silva
+    media: 35th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), 2022
+    links:
+      url: https://sol.sbc.org.br/index.php/sibgrapi/article/view/22900
+      doi: https://doi.org/10.1109/SIBGRAPI55357.2022.9991792
+      arxiv: 
+      youtube: 
+      github: https://github.com/MaVILab-UFV/soybean-seedling-dataset_SIBGRAPI_2022
+      
+  - title: "Describing image focused in cognitive and visual details for visually impaired people: An approach to generating inclusive paragraphs."
+    authors: Daniel L. Fernandes, Marcos H. F. Ribeiro, Fabio R. Cerqueira and Michel M. Silva
+    media: 17th International Conference on Computer Vision Theory and Applications (VISAPP), 2022
+    links:
+      doi: https://doi.org/10.5220/0010845700003124
+      url:
+      github: 
+      arxiv: http://arxiv.org/abs/2202.05331
+      youtube:
 
-- title: "Describing image focused in cognitive and visual details for visually impaired people: An approach to generating inclusive paragraphs."
-  image: 
-  description: 
-  authors: Daniel L. Fernandes, Marcos H. F. Ribeiro, Fabio R. Cerqueira and Michel M. Silva
-  link:
-    doi: https://doi.org/10.1109/10.5220/0010845700003124
-    display: 17th International Conference on Computer Vision Theory and Applications (VISAPP), 2022
-    url:
-    github: 
-    arxiv: http://arxiv.org/abs/2202.05331
-    youtube:
-  highlight: 0
-  news2: 
-
-- title: "Evaluating Loss Functions for Illustration Super-Resolution Neural Networks"
-  image: 
-  description: 
-  authors: Raphael Nepomuceno and Michel M. Silva
-  link:
-    doi: 
-    display: 34th SIBGRAPI Conference on Graphics, Patterns and Images - Workshop of Undergraduate Works (WUW@SIBGRAPI), 2021
-    url: http://urlib.net/rep/8JMKD3MGPEW34M/45E82PS
-    github: 
-    arxiv: 
-    youtube: 
-  highlight: 0
-  news2: 
+- year: 2021
+  pubs:
+  - title: "Evaluating Loss Functions for Illustration Super-Resolution Neural Networks"
+    authors: Raphael Nepomuceno and Michel M. Silva
+    media: 34th SIBGRAPI Conference on Graphics, Patterns and Images - Workshop of Undergraduate Works (WUW@SIBGRAPI), 2021
+    links:
+      doi: 
+      url: http://urlib.net/rep/8JMKD3MGPEW34M/45E82PS
+      github: 
+      arxiv: 
+      youtube:
