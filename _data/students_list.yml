@@ -1,0 +1,27 @@
+- type: Students
+  list:
+  - name: Raphael Nepomuceno
+    photo: rock.jpg
+    since: 2020
+    until: 
+    homepage:
+    github:
+    level: Master Student
+
+  - name: Luísa Ferreira
+    photo: rock.jpg
+    since: 2021
+    until: 
+    homepage:
+    github:
+    level: BsC Student
+
+- type: Alumini
+  list:
+  - name: Bruno Nascimento
+    photo: rock.jpg
+    since: 2020
+    until: 2022
+    homepage:
+    github:
+    level: Master Student

@@ -14,7 +14,7 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-{% for years in site.data.publist %}
+{% for years in site.data.pub_list %}
 <h4>{{ years.year }}</h4>
 
 {% for publi in years.pubs %}
