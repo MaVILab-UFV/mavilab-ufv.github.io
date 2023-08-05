@@ -1,3 +1,35 @@
+- year : 2023
+  pubs:
+  - title: "Presenter-Centric Image Collection and Annotation: Enhancing Accessibility for the Visually Impaired"
+    authors: Luísa Ferreira, Daniel Fernandes, Fabio Cerqueira, Marcos Ribeiro, Michel Silva
+    media: 36th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), 2023 -- [TO APPEAR]
+    links:
+      url: 
+      doi: 
+      arxiv: 
+      youtube: 
+      github: 
+      
+  - title: "Evaluation of Optical Character Recognition System dealing with Misinformation in Portuguese"
+    authors: Yago José Araújo dos Santos, Michel Silva, Julio Reis
+    media: 36th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), 2023 -- [TO APPEAR]
+    links:
+      url: 
+      doi: 
+      arxiv: 
+      youtube: 
+      github:  
+      
+  - title: "ImageFactCk.BR: Um Repositório de Imagens para a Detecção de Desinformação Disseminada em Plataformas Digitais"
+    authors: Yago José Araújo dos Santos, Michel Silva, Julio Reis
+    media: 5th Simpósio Brasileiro de Bancos de Dados - Dataset Showcase Workshop (SBBD DSW) -- [TO APPEAR]
+    links:
+      url: 
+      doi: 
+      arxiv: 
+      youtube: 
+      github:
+
 - year : 2022
   pubs:
   - title: "A soybean seedlings dataset for soil condition and genotype classification."

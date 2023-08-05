@@ -1,7 +1,6 @@
 - name: Michel M Silva
   photo: michelmsilva.png
   info: Assistant professor @ UFV, MaVILab Founder
-  email: michel.m.silva@ufv.br
   number_educ: 4
   homepage: https://michelmelosilva.github.io/
   github:
@@ -9,3 +8,25 @@
   education2: Master, UFLA (Brazil) - 2014
   education3: Visitor Student, University of Dundee and JHI (Scotland) - 2012
   education4: BsC, UFLA (Brazil) - 2012
+
+- name: Marcos Ribeiro
+  photo: rock.jpg
+  info: 
+  number_educ: 
+  homepage: 
+  github:
+  education1: 
+  education2: 
+  education3: 
+  education4: 
+
+- name: Thiago Gomes
+  photo: rock.jpg
+  info: 
+  number_educ: 
+  homepage: 
+  github:
+  education1: 
+  education2: 
+  education3: 
+  education4: 

@@ -11,7 +11,31 @@ permalink: /tcc
 
 TCC is the final paper of undergraduate students (from portuguese *Trabalho de Conclusão de Curso*).
 
+<!-- ## Group highlights -->
 
+<p> &nbsp; </p>
+
+{% for years in site.data.tcc_list %}
+<h4>{{ years.year }}</h4>
+
+{% for tcc in years.tccs %}
+<p>
+<strong>{{ tcc.title }}</strong> <br />
+<em>Keywords:</em> {{ tcc.Keywords }} <br />
+<em>Institution:</em> {{ tcc.Institution }} <br />
+<em>Department:</em> {{ tcc.Department }} <br />
+<em>BsC Student:</em> {{ tcc.Student }} <br />
+<em>Advisor:</em> {{ tcc.Advisor }} <br />
+{% if tcc.Coadvisor %}
+<em>Co-advisor:</em> {{ tcc.Coadvisor }} <br />
+{% endif %}
+<br />
+</p>
+
+{% endfor %}
+{% endfor %}
+
+<!-- 
 ### 2023
 
 **Identificação de Doenças em Sementes de Soja.**  
@@ -81,3 +105,5 @@ TCC is the final paper of undergraduate students (from portuguese *Trabalho de C
 *BsC Student:* Raphael Carmo Silva Nepomuceno   
 *Advisor:* Michel Melo da Silva    
 <br />
+
+-->

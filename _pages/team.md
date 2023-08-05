@@ -70,23 +70,16 @@ permalink: /team/
 {% endif %}
 
 
+<!-- Students -->
 
-
-{% assign number_printed = 0 %}
 {% for types in site.data.students_list %}
 
+{% if types.type == "Students" %}
+<div class="row">
 <h2>{{ types.type }}</h2>
 
 {% for member in types.list %}
 
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-{% if types.type == "Students" %}
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
@@ -100,7 +93,15 @@ permalink: /team/
   </ul>
 </div>
 
+{% endfor %}
+</div>
+
 {% elsif types.type == "Alumini" %}
+
+<div class="row">
+<h2>{{ types.type }}</h2>
+
+{% for member in types.list %}
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
@@ -108,18 +109,11 @@ permalink: /team/
   
   <p>
   Role: {{ member.level }}  
-  Period: {{ member.since }} -{% if member.until %} {{ member.since }} {% else %} Today {% endif %} </p>
-
-  
+  Period: {{ member.since }} -{% if member.until %} {{ member.until }} {% else %} Today {% endif %} </p> 
 </div>
-
-{% endif %}
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
 
 {% endfor %}
+</div>
+{% endif %}
+
 {% endfor %}

@@ -1,0 +1,129 @@
+- year : 2023
+  tccs:
+  - title: "Identification of Diseases in Soybean Seeds."
+    Institution: UFV (Viçosa, Brazil)
+    Department: Department of Informatics
+    Student: Gabriel Macedo Nunes Pontes
+    Advisor: Michel Melo da Silva
+    Coadvisor:
+    Keywords: CNN, Computer Vision, Machine learning, Image description, Soybean 
+    links:
+          url: 
+          youtube: 
+          github:  
+
+  - title: "Evaluation of capture device for 3D object reconstruction techniques."
+    Institution: UFV (Viçosa, Brazil)  
+    Department: Department of Informatics  
+    Student: Lucas Teixeira Reis   
+    Advisor: Michel Melo da Silva
+    Coadvisor:
+    Keywords: Neural Render, 3D Reconstrucion, 3D printing, Arduino  
+    links:
+          url: 
+          youtube: 
+          github:  
+
+  - title: Creation of a synthetic dataset of movements using a Graphic Engine.
+    Institution: UFV (Viçosa, Brazil)  
+    Department: Department of Informatics  
+    Student: Matheus Antonio dos Santos Lima   
+    Advisor: Michel Melo da Silva
+    Coadvisor:
+    Keywords: Unreal 5, 3D skeleton, RGB-d Dataset  
+    links:
+          url: 
+          youtube: 
+          github:  
+
+
+  - title: Creation of a dataset for Libras.
+    Institution: UFV (Viçosa, Brazil)  
+    Department: Department of Informatics  
+    Student: Mateus de Lana Orlovski   
+    Advisor: Michel Melo da Silva 
+    Coadvisor:
+    Keywords: Hole Bible, Brazilian Sign Language (Libras), Dataset
+    links:
+          url: 
+          youtube: 
+          github:
+  
+  - title: Mobile application for counting soybeans with mechanical damage.
+    Institution: UFV (Viçosa, Brazil)  
+    Department: Department of Informatics  
+    Student: Daniela Assis de Sousa   
+    Advisor: Michel Melo da Silva  
+    Coadvisor:
+    Keywords: Andriod App, Soybean, Identification, Computer Vision, 
+    links:
+          url: 
+          youtube: 
+          github:
+
+- year : 2022
+  tccs:
+  - title: Automatic classification of documents for OCR technique.
+    Institution: UFV (Viçosa, Brazil)  
+    Department: Department of Informatics  
+    Student: Sarah Carvalho Alves   
+    Advisor: Michel Melo da Silva  
+    Coadvisor:
+    Keywords: OCR, Image description, Computer Vision, Document Filtering
+    links:
+          url: 
+          youtube: 
+          github:
+
+  - title: Analysis of digital image processing techniques for OCR application.
+    Institution: UFV (Viçosa, Brazil)  
+    Department: Department of Informatics  
+    Student: Manoela Werneck Auad   
+    Advisor: Michel Melo da Silva 
+    Coadvisor:
+    Keywords: OCR, Image description, Computer Vision, Image Enhancing
+    links:
+          url: 
+          youtube: 
+          github:
+- year : 2022
+  tccs:
+  - title: Neural network fine tuning for classification of environments in webinar scenes.  
+    Institution: UFV (Viçosa, Brazil)  
+    Department: Department of Informatics  
+    Student: Ricson Luiz Oliveira Vilaça   
+    Advisor: Michel Melo da Silva  
+    CoAdvisor: Daniel Louzada Fernandes  
+    Keywords: CNN, Scene Classification, Indoor environments, Computer Vision, Fine tuning
+    links:
+          url: 
+          youtube: 
+          github:
+  
+  - title: Analysis of loss functions in convolutional networks for super-resolution of illustrations.
+    Institution: UFV (Viçosa, Brazil)  
+    Department: Department of Informatics  
+    Student: Raphael Carmo Silva Nepomuceno   
+    Advisor: Michel Melo da Silva
+    Coadvisor:
+    Keywords: CNN, Computer Vision, Image Super Resolution, Loss Function
+    links:
+          url: 
+          youtube: 
+          github:
+
+
+# - year : 
+#   tccs:
+#   - title: 
+#     Institution: 
+#     Department: 
+#     Student: 
+#     Advisor: 
+#     Coadvisor:
+#     Keywords: 
+#     links:
+#           url: 
+#           youtube: 
+#           github:
+            

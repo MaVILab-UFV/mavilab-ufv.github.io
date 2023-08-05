@@ -6,9 +6,17 @@
     until: 
     homepage:
     github:
-    level: Master Student
+    level: BsC and Master Student
 
-  - name: Luísa Ferreira
+  - name: Daniel Fernandes
+    photo: rock.jpg
+    since: 2020
+    until: 
+    homepage:
+    github:
+    level: PhD Student
+
+  - name: Gabriel Bezerra
     photo: rock.jpg
     since: 2021
     until: 
@@ -16,8 +24,56 @@
     github:
     level: BsC Student
 
+  - name: Daniela Sousa
+    photo: rock.jpg
+    since: 2021
+    until: 
+    homepage:
+    github:
+    level: BsC and Master Student
+
+  - name: Luísa Ferreira
+    photo: rock.jpg
+    since: 2022
+    until: 
+    homepage:
+    github:
+    level: BsC Student
+
 - type: Alumini
   list:
+  - name: Gabriel Pontes
+    photo: rock.jpg
+    since: 2021
+    until: 2023
+    homepage:
+    github:
+    level: BsC Student (TCC and IC)
+
+  - name: Lucas Reis
+    photo: rock.jpg
+    since: 2022
+    until: 2023
+    homepage:
+    github:
+    level: BsC Student (TCC)
+
+  - name: Matheus Lima
+    photo: rock.jpg
+    since: 2022
+    until: 2023
+    homepage:
+    github:
+    level: BsC Student (TCC)
+
+  - name: Mateus Orlovski
+    photo: rock.jpg
+    since: 2022
+    until: 2023
+    homepage:
+    github:
+    level: BsC Student (TCC)
+
   - name: Bruno Nascimento
     photo: rock.jpg
     since: 2020
@@ -25,7 +81,31 @@
     homepage:
     github:
     level: Master Student
-    
+
+  - name: Sarah Carvalho
+    photo: rock.jpg
+    since: 2021
+    until: 2022
+    homepage:
+    github:
+    level: BsC Student (TCC)
+
+  - name: Manu Werneck
+    photo: rock.jpg
+    since: 2021
+    until: 2022
+    homepage:
+    github:
+    level: BsC Student (TCC)
+
+  - name: Ateles Júnior
+    photo: rock.jpg
+    since: 2020
+    until: 2021
+    homepage:
+    github:
+    level: Master Student
+
   - name: Ricson Luiz Oliveira Vilaça
     photo: ricson-vilaca.jpeg
     since: 2020
@@ -33,3 +113,13 @@
     homepage: https://www.linkedin.com/in/ricson-vila%C3%A7a-8a394a190/
     github: https://github.com/ricsonl
     level: BSc Student (TCC)
+
+# - type: 
+#   list:
+#   - name: 
+#     photo: 
+#     since: 
+#     until: 
+#     homepage:
+#     github:
+#     level: 
