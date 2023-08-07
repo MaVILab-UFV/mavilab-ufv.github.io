@@ -1,11 +1,11 @@
 - type: Students
   list:
-  - name: Raphael Nepomuceno
-    photo: rock.jpg
+  - name: Raphael Carmo Silva Nepomuceno
+    photo: raphael-nepomuceno.jpg
     since: 2020
     until: 
     homepage:
-    github:
+    github: https://github.com/rphln/
     level: BsC and Master Student
 
   - name: Daniel Fernandes
@@ -32,6 +32,33 @@
     github:
     level: BsC and Master Student
 
+  - name: Júlia Lopes
+    photo: rock.jpg
+    since: 2022
+    until: 
+    homepage:
+    github:
+    level: High School Student
+
+
+  - name: Júlia de Paula
+    photo: rock.jpg
+    since: 2022
+    until: 
+    homepage:
+    github:
+    level: High School Student
+
+
+  - name: Allan Castro
+    photo: rock.jpg
+    since: 2022
+    until: 
+    homepage:
+    github:
+    level: High School Student
+
+
   - name: Luísa Ferreira
     photo: rock.jpg
     since: 2022
@@ -39,6 +66,14 @@
     homepage:
     github:
     level: BsC Student
+
+  - name: Juliana Quintiliano de Oliveira Ferreira
+    photo: juliana-quintiliano.jpg
+    since: 2023
+    until: 
+    homepage: http://www.linkedin.com/in/juliana-quintiliano-83811778
+    github:
+    level: Master Student
 
 - type: Alumini
   list:
@@ -74,20 +109,20 @@
     github:
     level: BsC Student (TCC)
 
-  - name: Bruno Nascimento
-    photo: rock.jpg
+  - name: Bruno Conceição do Nascimento
+    photo: bruno-nascimento.jpg
     since: 2020
     until: 2022
-    homepage:
+    homepage: http://linkedin.com/in/bruno-nascimento-1379b571
     github:
     level: Master Student
 
-  - name: Sarah Carvalho
-    photo: rock.jpg
+  - name: Sarah Carvalho Alves
+    photo: sara-alves.jpg
     since: 2021
     until: 2022
-    homepage:
-    github:
+    homepage: https://www.linkedin.com/in/sarah-c-alves/
+    github: https://github.com/scarvalh
     level: BsC Student (TCC)
 
   - name: Manu Werneck
