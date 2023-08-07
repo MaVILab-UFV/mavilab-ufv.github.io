@@ -40,7 +40,6 @@
     github:
     level: High School Student
 
-
   - name: Júlia de Paula
     photo: rock.jpg
     since: 2022
@@ -49,7 +48,6 @@
     github:
     level: High School Student
 
-
   - name: Allan Castro
     photo: rock.jpg
     since: 2022
@@ -57,7 +55,6 @@
     homepage:
     github:
     level: High School Student
-
 
   - name: Luísa Ferreira
     photo: rock.jpg
@@ -93,12 +90,12 @@
     github:
     level: BsC Student (TCC)
 
-  - name: Matheus Lima
-    photo: rock.jpg
+  - name: Matheus Antonio dos Santos Lima
+    photo: matheus-lima.jpeg
     since: 2022
     until: 2023
-    homepage:
-    github:
+    homepage: https://www.linkedin.com/in/matheus-lima-b1486514a/
+    github: https://github.com/MatheusAL
     level: BsC Student (TCC)
 
   - name: Mateus Orlovski
