@@ -14,8 +14,10 @@ permalink: /team/
 
 <!-- Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors). -->
 
+<div class="row">
 ## Faculty
 {% assign number_printed = 0 %}
+
 {% for member in site.data.team_members %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
@@ -63,11 +65,8 @@ permalink: /team/
 {% endif %}
 
 {% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
 </div>
-{% endif %}
+
 
 
 <!-- Students -->
@@ -78,8 +77,16 @@ permalink: /team/
 <div class="row">
 <h2>{{ types.type }}</h2>
 
+
+{% assign number_printed = 0 %}
+
 {% for member in types.list %}
 
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
@@ -93,15 +100,32 @@ permalink: /team/
   </ul>
 </div>
 
-{% endfor %}
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
 </div>
+{% endif %}
+
+{% endfor %}
+
+</div>
+
 
 {% elsif types.type == "Alumini" %}
 
 <div class="row">
 <h2>{{ types.type }}</h2>
 
+{% assign number_printed = 0 %}
+
 {% for member in types.list %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
@@ -112,8 +136,17 @@ permalink: /team/
   Period: {{ member.since }} -{% if member.until %} {{ member.until }} {% else %} Today {% endif %} </p> 
 </div>
 
-{% endfor %}
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
 </div>
+{% endif %}
+
+{% endfor %}
+
+</div>
+
+
 {% endif %}
 
 {% endfor %}
