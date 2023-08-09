@@ -8,27 +8,27 @@
     github: https://github.com/rphln/
     level: BsC and Master Student
 
-  - name: Daniel Fernandes
-    photo: rock.jpg
+  - name: Daniel Louzada Fernandes
+    photo: daniel-fernandes.jpg
     since: 2020
     until: 
     homepage:
-    github:
-    level: PhD Student
+    github: https://github.com/daniellf
+    level: PhD Candidate
 
   - name: Gabriel Bezerra
     photo: rock.jpg
     since: 2021
     until: 
     homepage:
-    github:
+    github: 
     level: BsC Student
 
-  - name: Daniela Sousa
-    photo: rock.jpg
+  - name: Daniela Assis de Sousa
+    photo: daniela-assis.jpeg
     since: 2021
     until: 
-    homepage:
+    homepage: http://www.linkedin.com/in/sousa-daniela
     github:
     level: BsC and Master Student
 
@@ -56,20 +56,20 @@
     github:
     level: High School Student
 
-  - name: Luísa Ferreira
-    photo: rock.jpg
+  - name: Luísa de Souza Ferreira
+    photo: luisa-ferreira.jpg
     since: 2022
     until: 
-    homepage:
-    github:
-    level: BsC Student
+    homepage: https://www.linkedin.com/in/lu%C3%ADsa-de-souza-ferreira-8ab4bb217/
+    github: https://github.com/ferreiraluisa
+    level: BsC Student (IC)
 
   - name: Juliana Quintiliano de Oliveira Ferreira
     photo: juliana-quintiliano.jpg
     since: 2023
     until: 
     homepage: http://www.linkedin.com/in/juliana-quintiliano-83811778
-    github:
+    github: 
     level: Master Student
 
 - type: Alumini
@@ -82,12 +82,12 @@
     github:
     level: BsC Student (TCC and IC)
 
-  - name: Lucas Reis
-    photo: rock.jpg
+  - name: Lucas Teixeira Reis
+    photo: lucas-reis.jpg
     since: 2022
     until: 2023
-    homepage:
-    github:
+    homepage: https://www.linkedin.com/in/lucas-tx/
+    github: https://github.com/lucas-t-reis
     level: BsC Student (TCC)
 
   - name: Matheus Antonio dos Santos Lima
