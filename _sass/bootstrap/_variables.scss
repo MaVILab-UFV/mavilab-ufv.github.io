@@ -39,6 +39,13 @@ $link-hover-color:      $link-color !default;
 $link-hover-decoration: underline !default;
 
 
+$light-gray                 : mix(#fff, $gray, 50%) !default;
+$type-size-7                : 14px !default;
+$caption-font-family        : sans-serif !default;
+$global-transition          : all 0.2s ease-in-out !default;
+$border-radius              : 4px !default;
+
+
 //== Typography
 //
 //## Font, line-height, and color for body text, headings, and more.
@@ -48,6 +55,7 @@ $font-family-serif:       Georgia, "Times New Roman", Times, serif !default;
 //** Default monospace fonts for `<code>`, `<kbd>`, and `<pre>`.
 $font-family-monospace:   Menlo, Monaco, Consolas, "Courier New", monospace !default;
 $font-family-base:        $font-family-sans-serif !default;
+
 
 $font-size-base:          16px !default;
 $font-size-large:         ceil(($font-size-base * 1.25)) !default; // ~18px

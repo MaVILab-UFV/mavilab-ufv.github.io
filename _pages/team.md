@@ -14,7 +14,7 @@ permalink: /team/
 
 <!-- Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors). -->
 
-<div class="row">
+<div class="row" style="margin-left:0px;">
 ## Faculty
 {% assign number_printed = 0 %}
 
@@ -74,7 +74,7 @@ permalink: /team/
 {% for types in site.data.students_list %}
 
 {% if types.type == "Students" %}
-<div class="row">
+<div class="row"  style="margin-left:0px;">
 <h2>{{ types.type }}</h2>
 
 
@@ -114,7 +114,7 @@ permalink: /team/
 
 {% elsif types.type == "Alumini" %}
 
-<div class="row">
+<div class="row"  style="margin-left:0px;">
 <h2>{{ types.type }}</h2>
 
 {% assign number_printed = 0 %}
