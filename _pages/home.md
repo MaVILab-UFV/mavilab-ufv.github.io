@@ -53,6 +53,7 @@ We are located in room 411 at CCE@UFV bulding.
 
 Our lab contains the following items:  
 - Video Cards (RTX 4090 and RTX 4070ti)  
+- Xbox 360 and Kinect sensor  
 - 3D Printer Sethi FARM  
 - RGB-d Sensor Intel Realsense D-435i  
 - Logitech webcameras C922  
