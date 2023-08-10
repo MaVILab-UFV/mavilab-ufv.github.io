@@ -83,11 +83,11 @@ Our lab contains the following items:
             <img src="{{ site.url }}{{ site.baseurl }}/images/sliders/lab/equip-impressora-3d.jpg" alt="Slide 3" height="200px" />
             <span class="page__hero-caption">{{ "3D printer." | markdownify | remove: "<p>" | remove: "</p>" }}</span>
         </div>
-        <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/sliders/lab/equip-cameras.jpg" alt="Slide 1" height="200px" />
             <span class="page__hero-caption">{{ "Lab equipments." | markdownify | remove: "<p>" | remove: "</p>" }}</span>
         </div>
-        <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/sliders/lab/mesa-experimentos.jpg" alt="Slide 1" height="200px" />
             <span class="page__hero-caption">{{ "Assembley experiments." | markdownify | remove: "<p>" | remove: "</p>" }}</span>
         </div>
