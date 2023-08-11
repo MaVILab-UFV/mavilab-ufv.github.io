@@ -74,11 +74,11 @@
 
 - type: Alumini
   list:
-  - name: Gabriel Pontes
-    photo: rock.jpg
+  - name: Gabriel Macedo Nunes Pontes
+    photo: gabriel-pontes.jpg
     since: 2021
     until: 2023
-    homepage:
+    homepage: https://www.linkedin.com/in/gabriel-pontes-1931b9209/
     github:
     level: BsC Student (TCC and IC)
 
