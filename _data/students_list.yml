@@ -32,6 +32,14 @@
     github:
     level: BsC and Master Student
 
+  - name: Luísa de Souza Ferreira
+    photo: luisa-ferreira.jpg
+    since: 2022
+    until: 
+    homepage: https://www.linkedin.com/in/lu%C3%ADsa-de-souza-ferreira-8ab4bb217/
+    github: https://github.com/ferreiraluisa
+    level: BsC Student (IC)
+
   - name: Júlia de Freita Lopes
     photo: julia-lopes.jpg
     since: 2022
@@ -56,14 +64,6 @@
     github:
     level: High School Student
 
-  - name: Luísa de Souza Ferreira
-    photo: luisa-ferreira.jpg
-    since: 2022
-    until: 
-    homepage: https://www.linkedin.com/in/lu%C3%ADsa-de-souza-ferreira-8ab4bb217/
-    github: https://github.com/ferreiraluisa
-    level: BsC Student (IC)
-
   - name: Juliana Quintiliano de Oliveira Ferreira
     photo: juliana-quintiliano.jpg
     since: 2023
@@ -71,6 +71,14 @@
     homepage: http://www.linkedin.com/in/juliana-quintiliano-83811778
     github: 
     level: Master Student
+
+  - name: Gabriel Moreira Marques
+    photo: gabriel-marques.jpg
+    since: 2023
+    until: 
+    homepage: https://www.linkedin.com/in/gabriel-moreira-82a72b1b3/
+    github: https://github.com/eugabrielm
+    level: BsC Student (IC)
 
 - type: Alumini
   list:
