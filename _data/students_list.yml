@@ -88,6 +88,22 @@
     github: https://github.com/ericksoares13
     level: BsC Student (IC)
 
+  - name: Larissa Tonetto
+    photo: rock.jpg
+    since: 2023
+    until: 
+    homepage: https://www.linkedin.com/in/larissa-tonetto-a243aa191/
+    github: https://github.com/larissatonetto
+    level: BsC Student (TCC)
+
+  - name: César Almeida
+    photo: cesar-almeida.jpg
+    since: 2023
+    until: 
+    homepage: https://www.linkedin.com/in/cesar-ribeiro-de-almeida/
+    github: https://github.com/CeElt
+    level: MsC Student
+
 - type: Alumini
   list:
   - name: Gabriel Macedo Nunes Pontes
