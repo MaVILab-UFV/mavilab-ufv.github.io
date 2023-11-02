@@ -8,7 +8,7 @@
       doi: 
       arxiv: 
       youtube: 
-      github: 
+      github: https://github.com/MaVILab-UFV/presenter-centric-dataset-SIBGRAPI-2023
       
   - title: "Evaluation of Optical Character Recognition System dealing with Misinformation in Portuguese"
     authors: Yago José Araújo dos Santos, Michel Silva, Julio Reis
@@ -18,17 +18,17 @@
       doi: 
       arxiv: 
       youtube: 
-      github:  
+      github: https://github.com/MaVILab-UFV/OCR-eval-for-misinformation-SIBGRAPI-2023 
       
   - title: "ImageFactCk.BR: Um Repositório de Imagens para a Detecção de Desinformação Disseminada em Plataformas Digitais"
     authors: Yago José Araújo dos Santos, Michel Silva, Julio Reis
-    media: 5th Simpósio Brasileiro de Bancos de Dados - Dataset Showcase Workshop (SBBD DSW) -- [TO APPEAR]
+    media: 5th Simpósio Brasileiro de Bancos de Dados - Dataset Showcase Workshop (SBBD DSW)
     links:
       url: 
-      doi: 
+      doi: https://sol.sbc.org.br/index.php/dsw/article/view/25508
       arxiv: 
       youtube: 
-      github:
+      github: https://github.com/MaVILab-UFV/ImageFactCk.br-dataset-SBBD-DSW-2023
 
 - year : 2022
   pubs:

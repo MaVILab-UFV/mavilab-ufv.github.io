@@ -1,0 +1,63 @@
+- type: transfer
+  list:
+  - name: Ana Osias 
+    photo: rock.jpg
+    homepage:
+    github: 
+    level: BsC Student
+
+  - name: Luka Gouvêa
+    photo: rock.jpg
+    homepage:
+    github: 
+    level: BsC Student
+
+  - name: Luísa de Souza Ferreira
+    photo: luisa-ferreira.jpg
+    homepage: https://www.linkedin.com/in/lu%C3%ADsa-de-souza-ferreira-8ab4bb217/
+    github: https://github.com/ferreiraluisa
+    level: BsC Student
+
+  - name: Lucas Vieira dos Santos
+    photo: rock.jpg
+    homepage:
+    github: 
+    level: BsC Student
+
+  - name: Thiago Luange Gomes
+    photo: thiago-gomes.jpg
+    homepage:
+    github: 
+    level: Assistant professor @ UFV 
+
+  - name: Michel M Silva
+    photo: michelmsilva.png
+    homepage: https://michelmelosilva.github.io/
+    github: 
+    level: Assistant professor @ UFV
+
+- type: face
+  list:
+  - name: Luka Gouvêa
+    photo: rock.jpg
+    homepage:
+    github: 
+    level: BsC Student
+
+  - name: Ana Osias 
+    photo: rock.jpg
+    homepage:
+    github: 
+    level: BsC Student
+
+  - name: Thiago Luange Gomes
+    photo: thiago-gomes.jpg
+    homepage:
+    github: 
+    level: Assistant professor @ UFV 
+
+  - name: Michel M Silva
+    photo: michelmsilva.png
+    homepage: https://michelmelosilva.github.io/
+    github: 
+    level: Assistant professor @ UFV
