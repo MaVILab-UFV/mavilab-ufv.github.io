@@ -1,15 +1,15 @@
 - type: transfer
   list:
   - name: Ana Osias 
-    photo: rock.jpg
-    homepage:
+    photo: ana-osias.jpg
+    homepage: https://www.linkedin.com/in/ana-clara-fraga-osias-7769a522b
     github: 
     level: BsC Student
 
   - name: Luka Gouvêa
-    photo: rock.jpg
-    homepage:
-    github: 
+    photo: luka-gouvea.jpg
+    homepage: https://www.linkedin.com/in/luka-gouvea/
+    github: https://github.com/lukagouvea
     level: BsC Student
 
   - name: Luísa de Souza Ferreira
@@ -19,8 +19,8 @@
     level: BsC Student
 
   - name: Lucas Vieira dos Santos
-    photo: rock.jpg
-    homepage:
+    photo: lucas-vieira.jpg
+    homepage: https://linkedin.com/in/vieira-santos
     github: 
     level: BsC Student
 
@@ -39,14 +39,14 @@
 - type: face
   list:
   - name: Luka Gouvêa
-    photo: rock.jpg
-    homepage:
-    github: 
+    photo: luka-gouvea.jpg
+    homepage: https://www.linkedin.com/in/luka-gouvea/
+    github: https://github.com/lukagouvea
     level: BsC Student
 
   - name: Ana Osias 
-    photo: rock.jpg
-    homepage:
+    photo: ana-osias.jpg
+    homepage: https://www.linkedin.com/in/ana-clara-fraga-osias-7769a522b
     github: 
     level: BsC Student
 
