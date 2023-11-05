@@ -24,21 +24,21 @@ Adaptamos a aplicação destas redes neurais artificiais para otimizar o resulta
 
 Para a criação desta obra, precisamos animar um desenho feito à mão com traços menos realistas, além de usar um áudio em português.
 
-#### Solução para a detecção de pontos: 
+#### Solução para a detecção de pontos faciais: 
 
 Para contornar a dificuldade da rede em inferir os pontos faciais em imagens não realistas, realizamos uma primeira inferência utilizando a rede neural artificial e, em seguida, ajustamos manualmente os pontos para as posições corretas por meio de uma ferramenta específica para essa tarefa. Ou seja, após a inferência da rede neural artificial, movemos os pontos para as posições corretas.
 
 
-##### Imagem com marcações feitas pela rede: 
+##### Imagem com marcações feitas pela rede neural artificial: 
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/pinacoteca-50-anos/face/Captura.png"  height="300px" />
 
-#### Mesma imagem após os ajustes manuais:
+##### Mesma imagem após os ajustes manuais:
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/pinacoteca-50-anos/face/Captura_filtrado.png"  height="300px" />
 
 
-###### Solução para a movitação com áudio em português: 
+#### Solução para a animação conforme áudio em português: 
 
 Para solucionar relacionado com a animação dos pontos faciais para simular os movimentos de narrar o áudio de entrada, utilizamos uma ferramenta denominada [MediaPipe](https://developers.google.com/mediapipe/solutions/vision/pose_landmarker). Essa é uma outra rede neural artifical que, entre outras funcionalidades, detecta pontos, tanto faciais quanto corporais, em vídeos.
 
