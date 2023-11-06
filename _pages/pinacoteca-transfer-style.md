@@ -27,11 +27,11 @@ Essa rede neural é responsável por detectar uma pessoa na imagem, isto é, dad
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/pinacoteca-50-anos/transfer/bounding.png"  height="250px" />
 
-Existem outras formas de representar a presença de uma pessoa na image, como vamos ver a seguir.
+Existem outras formas de representar a presença de uma pessoa na imagem, como vamos ver a seguir.
 
-- Como ela sabe que há pessoa na frente da câmera?
+- Como a rede neural sabe que há pessoa na frente da câmera?
 
-A rede neural, como já mencionado, têm neurônios que podem ser treinados para aprender determinadas tarefas. Neste caso, a rede neural é treinada para fazer essa detecção de pessoas. O treinamento de uma rede neural se assemelha a um aluno estudando para uma prova. A rede tem uma lista de imagens e rótulos para essas imagens, dizendo se são pessoas ou não, e em que região da imagem a pessoa está, por exemplo. Na analogia com o aluno estudando podemos imaginar que ele tem um lista de exercícios com gabarito. A rede neural responde o que tem naquelas imagens e confere nos rótulos se a resposta está correta ou incorreta. Esse processo é repetido até que ela fique boa nisso. Mas para saber se ela realmente aprendeu, e não apenas decorou, aplicamos novas imagens para ela, como se fosse uma prova, para verificar se ela consegue acertar. Se sim, ela está treinada. Portanto, quando você passa na frente dela, mesmo sendo uma pessoa nova, ela consegue te identificar. 
+A rede neural, como já mencionado, têm neurônios que podem ser treinados para aprender determinadas tarefas. Neste caso, a rede neural é treinada para fazer essa detecção de pessoas. O treinamento de uma rede neural se assemelha a um aluno estudando para uma prova. A rede tem uma lista de imagens e rótulos para essas imagens, dizendo se são pessoas ou não, e em que região da imagem a pessoa está, por exemplo. Na analogia com o aluno estudando podemos imaginar que ele tem uma lista de exercícios com gabarito. A rede neural responde o que tem naquelas imagens e confere nos rótulos se a resposta está correta ou incorreta. Esse processo é repetido até que ela fique boa nisso. Para saber se ela realmente aprendeu, e não apenas decorou, aplicamos novas imagens para ela, como se fosse uma prova, para verificar se ela consegue acertar. Se sim, ela está treinada. Portanto, quando você passa na frente dela, mesmo sendo uma pessoa nova, ela consegue te identificar. 
 
 
 #### Rede neural para transferência de estilo: 
@@ -40,18 +40,18 @@ Empregamos também um segundo tipo de rede neural. Neste caso a tarefa em que a 
 
 - Como ela aprende e aplica o estilo?
 
-Essas redes neurais são capazes de separar o conteúdo e o estilo da imagem. Então se eu tenho um cachorro desenhado a lapis, o cachorro é o conteúdo e o estilo é a lapis. Depois que essa rede separou essas duas coisas ela aprende o estilo de uma imagem e o conteúdo da outra imagem. Junta as duas coisas e obtem a imagem original de conteúdo estilizada de acordo com a imagem que escolhemos para o estilo.
+Essas redes neurais são capazes de separar o conteúdo e o estilo da imagem. Então se eu tenho um cachorro desenhado a lapis, o cachorro é o conteúdo e o estilo é a lapis. Depois que essa rede separou essas duas coisas ela aprende o estilo de uma imagem e o conteúdo da outra imagem. Junta as duas coisas e obtém a imagem original de conteúdo estilizada de acordo com a imagem que escolhemos para o estilo.
 
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/pinacoteca-50-anos/transfer/estilizada.png"  height="250px" />
 
 
 #### Como juntar as duas redes?
-Você pode estar pensado "Ok, eu entendi que um rede percebe pessoas e a outra aplica um estilo a uma imagem, mas como a rede aplica o estilo apenas nas pessoas e não no fundo?"
+Você pode estar pensado "Ok, eu entendi que uma rede percebe pessoas e a outra aplica um estilo a uma imagem, mas como a rede aplica o estilo apenas nas pessoas e não no fundo?"
 
 Esse é um processo até que simples!  
 
-Criamos uma máscara com a região que a pessoa ocupa na imagem, de acordo com a detecção da rede neural treinada para detecção de pessoas. Onde tem pessoa fica branco e onde não tem fica preto. Usando ainda a imagem original, aplicamos a segunda rede neural, que faz transferência de estilo, treinada para transformar qualquer imagem de entrada em uma imagem com o mesmo conteúdo porém no estilo que se assemelha à Xilogravuras. Depois disso, cortamos na imagem original só a parte branca da imagem que tem o estilo aplicado. Assim, obtemos uma imagem que tem somente a pessoa com o estilo desejado. Posteriormente, invertemos a máscara criada. Isto é, onde era branco fica preto e vice-versa. Agora temos uma máscara em que o fundo é branco. Usando essa nova máscara, retiramos da imagem tudo o que não são pessoas, mantendo só o fundo. Por fim, juntamos a imagem composta pela pessoa estilizada com a imagem que tem o fundo original sem estilo e obtemos esse resultado. O processo completo pode parecer longo, mas acreditamos que a imagem a seguir irá ajudar a entender.
+Criamos uma máscara com a região que a pessoa ocupa na imagem, de acordo com a detecção da rede neural treinada para detecção de pessoas. Onde tem pessoa fica branco e onde não tem fica preto. Usando ainda a imagem original, aplicamos a segunda rede neural, que faz transferência de estilo, treinada para transformar qualquer imagem de entrada em uma imagem com o mesmo conteúdo porém no estilo que se assemelha à Xilogravuras. Depois disso, removemos da imagem estilizada tudo o que é preto na máscara. Assim, obtemos uma imagem que tem somente a pessoa com o estilo desejado. Posteriormente, invertemos a máscara criada. Isto é, onde era branco fica preto e vice-versa. Agora temos uma máscara em que o fundo é branco. Usando essa nova máscara, retiramos da imagem tudo o que não são pessoas, mantendo só o fundo. Por fim, juntamos a imagem composta pela pessoa estilizada com a imagem que tem o fundo original sem estilo e obtemos esse resultado. O processo completo pode parecer longo, mas acreditamos que a imagem a seguir irá ajudar a entender.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/pinacoteca-50-anos/transfer/esquema_final.png"  width="100%" /> 
 

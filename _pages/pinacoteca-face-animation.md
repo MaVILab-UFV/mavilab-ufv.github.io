@@ -15,7 +15,7 @@ Somos o laboratório de Inteligência e Visão Computacional (MaVILab) do Depart
 
 Para criar essa obra digital, utilizamos uma tecnologia chamada rede neural artificial com o objetivo de dar vida à obra 'Francisca', fazendo com que ela se mova como se estivesse falando o texto que vocês ouviram. Originalmente, [Francisca é um retrato desenhado por Tarsila do Amaral](https://www.dac.ufv.br/sem-categoria/ufv-semana-de-arte-moderna-tarsila-do-amaral/).
 
-Para alcançar esse objetivo, contamos com o projeto chamado [MakeItTalk](https://people.umass.edu/~yangzhou/MakeItTalk/), que tem como objetivo animar animar uma imagem em formato de retrato com base em um áudio de entrada para simular que a pessoa retratada na imagem esteja narrando o áudio de entrada. Para isso, o projeto executa as seguintes tarefas: reconhecimento de pontos faciais e animação desses pontos faciais a partir de um áudio de entrada. Para executar essas tarefas, são utilizadas duas rede neurais artificiais, uma para cada tarefa.
+Para alcançar esse objetivo, contamos com o projeto chamado [MakeItTalk](https://people.umass.edu/~yangzhou/MakeItTalk/), que tem como objetivo animar uma imagem com base em um áudio, simulando que a pessoa retratada na imagem esteja narrando o áudio de entrada. Para isso, o projeto executa as seguintes tarefas: reconhecimento de pontos faciais e animação desses pontos faciais a partir de um áudio de entrada. Para executar essas tarefas, são utilizadas duas rede neurais artificiais, uma para cada tarefa.
 
 Adaptamos a aplicação destas redes neurais artificiais para otimizar o resultado para a nossa obra digital. O projeto original do MakeItTalk apresenta duas limitações:
 
