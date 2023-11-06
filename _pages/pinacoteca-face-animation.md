@@ -40,7 +40,7 @@ Para contornar a dificuldade da rede em inferir os pontos faciais em imagens nã
 
 #### Solução para a animação conforme áudio em português: 
 
-Para solucionar relacionado com a animação dos pontos faciais para simular os movimentos de narrar o áudio de entrada, utilizamos uma ferramenta denominada [MediaPipe](https://developers.google.com/mediapipe/solutions/vision/pose_landmarker). Essa é uma outra rede neural artifical que, entre outras funcionalidades, detecta pontos, tanto faciais quanto corporais, em vídeos.
+Para solucionar o problema relacionado com a animação dos pontos faciais para simular os movimentos de narrar o áudio de entrada, utilizamos uma ferramenta denominada [MediaPipe](https://developers.google.com/mediapipe/solutions/vision/pose_landmarker). Essa é uma outra rede neural artifical que, entre outras funcionalidades, detecta pontos, tanto faciais quanto corporais, em vídeos.
 
 Nós gravamos um vídeo da face de uma pessoa narrando o texto que a Francisca irá narrar, e inferimos os pontos faciais para cada imagem desse vídeo utilizando o MediaPipe. Essa ferramenta detecta até mais pontos do que precisávamos, então fizemos uma filtragem para obter o número exato de pontos desejado. Isso porque precisamos que o video tenha o mesmo número de pontos por quadro que a imagem da Francisca. Isso nos forneceu as posições do nariz, olhos, boca e outros pontos da atriz em cada momento do vídeo. O resultado da rede foi um arquivo com todos os pontos e quadros capturados.
 
