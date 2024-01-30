@@ -2,20 +2,20 @@
   pubs:
   - title: "Presenter-Centric Image Collection and Annotation: Enhancing Accessibility for the Visually Impaired"
     authors: Luísa Ferreira, Daniel Fernandes, Fabio Cerqueira, Marcos Ribeiro, Michel Silva
-    media: 36th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), 2023 -- [TO APPEAR]
+    media: 36th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), 2023
     links:
       url: http://sibgrapi.sid.inpe.br/sid.inpe.br/sibgrapi/2023/08.16.18.53
-      doi: 
+      doi: http://dx.doi.org/10.1109/sibgrapi59091.2023.10347135
       arxiv: 
       youtube: 
       github: https://github.com/MaVILab-UFV/presenter-centric-dataset-SIBGRAPI-2023
       
   - title: "Evaluation of Optical Character Recognition System dealing with Misinformation in Portuguese"
     authors: Yago José Araújo dos Santos, Michel Silva, Julio Reis
-    media: 36th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), 2023 -- [TO APPEAR]
+    media: 36th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), 2023
     links:
       url: http://sibgrapi.sid.inpe.br/ibi/sid.inpe.br/sibgrapi/2023/08.16.18.14
-      doi: 
+      doi: http://dx.doi.org/10.1109/SIBGRAPI59091.2023.10347039
       arxiv: 
       youtube: 
       github: https://github.com/MaVILab-UFV/OCR-eval-for-misinformation-SIBGRAPI-2023 
@@ -25,7 +25,7 @@
     media: 5th Simpósio Brasileiro de Bancos de Dados - Dataset Showcase Workshop (SBBD DSW)
     links:
       url: 
-      doi: https://sol.sbc.org.br/index.php/dsw/article/view/25508
+      doi: http://dx.doi.org/10.5753/dsw.2023.234267
       arxiv: 
       youtube: 
       github: https://github.com/MaVILab-UFV/ImageFactCk.br-dataset-SBBD-DSW-2023
