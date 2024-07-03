@@ -8,14 +8,6 @@
     github: https://github.com/rphln/
     level: BsC and Master Student
 
-  - name: Daniel Louzada Fernandes
-    photo: daniel-fernandes.jpg
-    since: 2020
-    until: 
-    homepage:
-    github: https://github.com/daniellf
-    level: PhD Candidate
-
   - name: Gabriel Bezerra
     photo: gabriel-bezerra.jpeg
     since: 2021
@@ -79,14 +71,6 @@
     homepage: https://www.linkedin.com/in/lucas-silva11
     github: https://github.com/Lucas-silva23
     level: BsC Student (IC)
-
-  - name: Pedro Roberto de Assis Zara
-    photo: pedro-zara.jpg
-    since: 2023
-    until: 
-    homepage: https://www.linkedin.com/in/pedro-roberto-zara-b91b32201/
-    github: https://github.com/zara-pedro
-    level: BsC Student 
  
   - name: Natascha Siqueira Martinez Palhares
     photo: natascha-palhares.jpeg
@@ -98,6 +82,22 @@
 
 - type: Alumini
   list:
+  - name: Pedro Roberto de Assis Zara
+    photo: pedro-zara.jpg
+    since: 2023
+    until: 
+    homepage: https://www.linkedin.com/in/pedro-roberto-zara-b91b32201/
+    github: https://github.com/zara-pedro
+    level: BsC Student 
+  
+  - name: Daniel Louzada Fernandes
+    photo: daniel-fernandes.jpg
+    since: 2020
+    until: 2024
+    homepage:
+    github: https://github.com/daniellf
+    level: PhD Candidate
+  
   - name: César Almeida
     photo: cesar-almeida.jpg
     since: 2023
