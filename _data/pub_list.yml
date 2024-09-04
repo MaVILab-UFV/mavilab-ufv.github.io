@@ -1,3 +1,45 @@
+- year : 2024
+  pubs:
+  - title: "A Multimodal Frame Sampling Algorithm for Semantic Hyperlapses with Musical Alignment"
+    authors: Lucas Silva, Juliana Quintiliano Ferreira, Paulo Rezeck, Michel Melo Silva, Thiago L. Gomes
+    media: 21th IEEE Latin American Robotics Symposium (LARS), 2024 (TO APPEAR)
+    links:
+      url: 
+      doi: 
+      arxiv: 
+      youtube: 
+      github: 
+
+  - title: "A Multimodal Frame Sampling Algorithm for Semantic Hyperlapses with Musical Alignment"
+    authors: Raphael Nepomuceno, Luísa Ferreira, Michel Silva
+    media: 37th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), 2024 (TO APPEAR)
+    links:
+      url: 
+      doi: 
+      arxiv: 
+      youtube: 
+      github: https://github.com/MaVILab-UFV/SemanticMusicalHyperlapse_SIBGRAPI_2024
+
+  - title: "A Filtering and Image Preparation Approach to Enhance OCR for Fiscal Receipts"
+    authors: Manoela Auad, Sarah Alves, Gabriel Kakizaki, Julio Reis, Michel Silva
+    media: 37th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), 2024 (TO APPEAR)
+    links:
+      url: 
+      doi: 
+      arxiv: 
+      youtube: 
+      github: https://github.com/MaVILab-UFV/Filtering-Preparation-for-OCR_SIBGRAPI-2024
+
+    - title: "Empowering Sign Language Communication: Integrating Sentiment and Semantics for Facial Expression Synthesis"
+    authors: Rafael Azevedo, Thiago Coutinho, João Ferreira, Thiago Gomes, Erickson Nascimento
+    media: Computers & Graphics, 2024 (TO APPEAR)
+    links:
+      url: 
+      doi: 
+      arxiv: https://arxiv.org/pdf/2408.15159v1
+      youtube: 
+      github: https://github.com/verlab/empowering-sign-language     
+
 - year : 2023
   pubs:
   - title: "Presenter-Centric Image Collection and Annotation: Enhancing Accessibility for the Visually Impaired"
