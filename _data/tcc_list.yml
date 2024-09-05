@@ -1,3 +1,42 @@
+- year : 2024
+  tccs:
+  - title: "Classification of Diseases in Soybean Seeds."
+    Institution: UFV (Viçosa, Brazil)
+    Department: Department of Informatics
+    Student: Larissa Laiola Tonetto
+    Advisor: Michel Melo da Silva
+    Coadvisor:
+    Keywords: Computer Vision, Image description, Classifiers, Clustering, Soybean 
+    links:
+          url: 
+          youtube: 
+          github:  
+
+  - title: "Identifying relevant moments in Security Forces videos."
+    Institution: UFV (Viçosa, Brazil)  
+    Department: Department of Informatics  
+    Student: Luísa de Souza Ferreira   
+    Advisor: Michel Melo da Silva
+    Coadvisor:
+    Keywords: Video understanding, Semantic information, Egocentric vision, Security forces
+    links:
+          url: 
+          youtube: 
+          github:  
+
+  - title: "Development of a low-cost robotic system to aid in teaching Computer Vision."
+    Institution: UFV (Viçosa, Brazil)  
+    Department: Department of Informatics  
+    Student: Dener Vieira Ribeiro 
+    Advisor: Michel Melo da Silva
+    Coadvisor:
+    Keywords: ROS, 3D printing, RC car, Computer Vision, teaching
+    links:
+          url: 
+          youtube: 
+          github:  
+
+
 - year : 2023
   tccs:
   - title: "Identification of Diseases in Soybean Seeds."
