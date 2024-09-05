@@ -29,8 +29,8 @@
       arxiv: 
       youtube: 
       github: https://github.com/MaVILab-UFV/Filtering-Preparation-for-OCR_SIBGRAPI-2024
-
-    - title: "Empowering Sign Language Communication: Integrating Sentiment and Semantics for Facial Expression Synthesis"
+      
+  - title: "Empowering Sign Language Communication: Integrating Sentiment and Semantics for Facial Expression Synthesis"
     authors: Rafael Azevedo, Thiago Coutinho, João Ferreira, Thiago Gomes, Erickson Nascimento
     media: Computers & Graphics, 2024 (TO APPEAR)
     links:
@@ -39,6 +39,27 @@
       arxiv: https://arxiv.org/pdf/2408.15159v1
       youtube: 
       github: https://github.com/verlab/empowering-sign-language     
+
+  - title: "Learning Visual Patterns in Remote Sensing: An Overview of Agricultural Applications"
+    authors: Mateus Pinto da Silva, Mariana A. R. Schaefer, Hugo N. Oliveira, Julio C. S. Reis, Ian M. Nunes, Jefersson A. dos Santos
+    media: Tutorial Track - 37th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), 2024 (TO APPEAR)
+    links:
+      url: 
+      doi: 
+      arxiv: 
+      youtube: 
+      github: 
+
+  - title: "Open Set Semantic Segmentation for Remote Sensing Images"
+    authors:  Ian M. Nunes, Hugo N. Oliveira, Marcus Poggi
+    media: Workshop of Theses and Dissertations (WTD) - 37th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), 2024 (TO APPEAR)
+    links:
+      url: 
+      doi: 
+      arxiv: 
+      youtube: 
+      github: 
+
 
 - year : 2023
   pubs:
@@ -64,7 +85,7 @@
       
   - title: "ImageFactCk.BR: Um Repositório de Imagens para a Detecção de Desinformação Disseminada em Plataformas Digitais"
     authors: Yago José Araújo dos Santos, Michel Silva, Julio Reis
-    media: 5th Simpósio Brasileiro de Bancos de Dados - Dataset Showcase Workshop (SBBD DSW)
+    media: 5th Simpósio Brasileiro de Bancos de Dados - Dataset Showcase Workshop (SBBD DSW), 2023
     links:
       url: 
       doi: http://dx.doi.org/10.5753/dsw.2023.234267
