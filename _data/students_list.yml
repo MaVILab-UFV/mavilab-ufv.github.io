@@ -64,6 +64,22 @@
     github: https://github.com/larissatonetto
     level: BsC Student (TCC)
 
+  - name: Natascha Siqueira Martinez Palhares
+    photo: natascha-palhares.jpeg
+    since: 2023
+    until: 
+    homepage: http://www.linkedin.com/in/natascha-palhares
+    github: 
+    level: BsC Student (TCC)
+ 
+  - name: João Pedro Pulz de Oliveira
+    photo: joao-pulz.jpg
+    since: 2023
+    until: 
+    homepage: https://www.linkedin.com/in/jopzoli/
+    github: https://github.com/johnpolsh
+    level: BsC Student (IC)
+ 
   - name: Lucas Alves Rezende Machado da Silva
     photo: lucas-silva.jpeg
     since: 2024
@@ -71,22 +87,14 @@
     homepage: https://www.linkedin.com/in/lucas-silva11
     github: https://github.com/Lucas-silva23
     level: BsC Student (IC)
- 
-  - name: Natascha Siqueira Martinez Palhares
-    photo: natascha-palhares.jpeg
-    since: 2023
-    until: 
-    homepage: http://www.linkedin.com/in/natascha-palhares
-    github: 
-    level: BsC Student 
- 
+  
   - name: Júlia Galvão Matos
     photo: julia-galvao.jpeg
     since: 2024
     until: 
-    homepage: 
+    homepage: http://www.linkedin.com/in/júliag-matos
     github: 
-    level: BsC Student 
+    level: BsC Student (IC)
 
 - type: Alumini
   list:
