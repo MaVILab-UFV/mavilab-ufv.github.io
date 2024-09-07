@@ -29,6 +29,16 @@ TCC is the final paper of undergraduate students (from portuguese *Trabalho de C
 {% if tcc.Coadvisor %}
 <em>Co-advisor:</em> {{ tcc.Coadvisor }} <br />
 {% endif %}
+{% if tcc.links.url %}
+<a href="{{ tcc.links.doi }}" title="Link to TCC file"><i class="fa fa-download fa-1x" aria-hidden="true"></i></a> &nbsp;
+{% endif %}
+{% if tcc.links.youtube %}
+<a href="{{ tcc.links.youtube }}" title="Link to YouTube TCC video"> <i class="fa fa-youtube fa-1x" aria-hidden="true"></i></a> &nbsp;
+{% endif %}
+{% if tcc.links.github  %}
+<a href="{{ tcc.links.github }}" title="Link to GitHub TCC project"><i class="fa fa-github fa-1x" aria-hidden="true"></i></a> &nbsp;
+{% endif %}
+
 <br />
 </p>
 
