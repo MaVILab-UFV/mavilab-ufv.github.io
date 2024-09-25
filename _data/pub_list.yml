@@ -18,7 +18,7 @@ ROS and Gazebo"
       url: http://sibgrapi.sid.inpe.br/sid.inpe.br/sibgrapi/2024/08.31.03.53
       doi: 
       arxiv: 
-      youtube: 
+      youtube: https://youtu.be/-60zNZ1Yz70
       github: https://github.com/MaVILab-UFV/SemanticMusicalHyperlapse_SIBGRAPI_2024
 
   - title: "A Filtering and Image Preparation Approach to Enhance OCR for Fiscal Receipts"
