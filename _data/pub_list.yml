@@ -41,6 +41,36 @@ ROS and Gazebo"
       youtube: 
       github: https://github.com/verlab/empowering-sign-language     
 
+  - title: "Digital Fencing for Farms: Enhancing Object Detection through Multi-Dataset Integration"
+    authors: Juliana Ferreira, Lucas da Silva, Thiago Gomes, Michel Silva
+    media: XIX Workshop on Computer Vision (WCV), 2024 (TO APPEAR)
+    links:
+      url: 
+      doi: 
+      arxiv: 
+      youtube: 
+      github:      
+
+  - title: "Automatic Identification of Relevant Moments in Security Force Videos Using Multimodal Analysis"
+    authors: Luísa Ferreira, Michel Silva
+    media: XIX Workshop on Computer Vision (WCV), 2024 (TO APPEAR)
+    links:
+      url: 
+      doi: 
+      arxiv: 
+      youtube: 
+      github:    
+
+  - title: "Portal to Other Dimensions: use of Computer Vision to create art work from day life images"
+    authors: Luísa Ferreira, Ana Clara Osias, Lucas Santos, Michel Silva
+    media: XIX Workshop on Computer Vision (WCV), 2024 (TO APPEAR)
+    links:
+      url: 
+      doi: 
+      arxiv: 
+      youtube: 
+      github: 
+
   - title: "Learning Visual Patterns in Remote Sensing: An Overview of Agricultural Applications"
     authors: Mateus Pinto da Silva, Mariana A. R. Schaefer, Hugo N. Oliveira, Julio C. S. Reis, Ian M. Nunes, Jefersson A. dos Santos
     media: Tutorial Track - 37th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), 2024 (TO APPEAR)
