@@ -8,8 +8,8 @@ ROS and Gazebo"
       url: 
       doi: 
       arxiv: 
-      youtube: 
-      github: 
+      youtube: https://youtu.be/6XmiHwqhA9s
+      github: https://github.com/MaVILab-UFV/Labeled-Synthetic-UAV-Data_LARS-2024
       
   - title: "A Multimodal Frame Sampling Algorithm for Semantic Hyperlapses with Musical Alignment"
     authors: Raphael Nepomuceno, Luísa Ferreira, Michel Silva
@@ -49,7 +49,7 @@ ROS and Gazebo"
       doi: 
       arxiv: 
       youtube: 
-      github:      
+      github: https://github.com/MaVILab-UFV/Digital-Fencing-WVC-2024
 
   - title: "Automatic Identification of Relevant Moments in Security Force Videos Using Multimodal Analysis"
     authors: Luísa Ferreira, Michel Silva
@@ -59,7 +59,7 @@ ROS and Gazebo"
       doi: 
       arxiv: 
       youtube: 
-      github:    
+      github: https://github.com/MaVILab-UFV/Detecting-Highlights-in-Security-Videos-WVC-2024
 
   - title: "Portal to Other Dimensions: use of Computer Vision to create art work from day life images"
     authors: Luísa Ferreira, Ana Clara Osias, Lucas Santos, Michel Silva
@@ -69,7 +69,7 @@ ROS and Gazebo"
       doi: 
       arxiv: 
       youtube: 
-      github: 
+      github: https://github.com/MaVILab-UFV/Portals-to-other-dimensions-WVC-2024
 
   - title: "Learning Visual Patterns in Remote Sensing: An Overview of Agricultural Applications"
     authors: Mateus Pinto da Silva, Mariana A. R. Schaefer, Hugo N. Oliveira, Julio C. S. Reis, Ian M. Nunes, Jefersson A. dos Santos
