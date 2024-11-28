@@ -1,5 +1,15 @@
 - year : 2024
   pubs:
+ - title: "VIIDA and InViDe: Computational approaches for generating and evaluating inclusive image paragraphs for the visually impaired"
+    authors: Daniel L. Fernandes, Marcos H. F. Ribeiro, Michel M. Silva, Fabio R. Cerqueira
+    media: Disability And Rehabilitation-Assistive Technology, 2024 (TO APPEAR)
+    links:
+      url: 
+      doi: 
+      arxiv: 
+      youtube: 
+      github: 
+        
   - title: "Photo-Realistic and Labeled Synthetic UAV Flight Data Generation Using
 ROS and Gazebo"
     authors: Lucas Silva, Juliana Quintiliano Ferreira, Paulo Rezeck, Michel Melo Silva, Thiago L. Gomes
@@ -39,7 +49,7 @@ ROS and Gazebo"
       doi: 
       arxiv: https://arxiv.org/pdf/2408.15159v1
       youtube: 
-      github: https://github.com/verlab/empowering-sign-language     
+      github: https://github.com/verlab/empowering-sign-lanhttps://github.com/MaVILab-UFV/Labeled-Synthetic-UAV-Data_LARS-2024guage     
 
   - title: "Digital Fencing for Farms: Enhancing Object Detection through Multi-Dataset Integration"
     authors: Juliana Ferreira, Lucas da Silva, Thiago Gomes, Michel Silva
