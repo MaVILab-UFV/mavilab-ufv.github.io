@@ -8,22 +8,6 @@
     github: https://github.com/rphln/
     level: BsC and Master Student
 
-  - name: Gabriel Bezerra
-    photo: gabriel-bezerra.jpeg
-    since: 2021
-    until: 
-    homepage:
-    github: 
-    level: BsC Student and R&D developer
-
-  - name: Luísa de Souza Ferreira
-    photo: luisa-ferreira.jpg
-    since: 2022
-    until: 
-    homepage: https://www.linkedin.com/in/lu%C3%ADsa-de-souza-ferreira-8ab4bb217/
-    github: https://github.com/ferreiraluisa
-    level: BsC Student (IC)
-
   - name: Júlia de Freita Lopes
     photo: julia-lopes.jpg
     since: 2022
@@ -55,14 +39,6 @@
     homepage: https://www.linkedin.com/in/gabriel-moreira-82a72b1b3/
     github: https://github.com/eugabrielm
     level: BsC Student (IC)
-
-  - name: Larissa Tonetto
-    photo: larissa-tonetto.jpg
-    since: 2023
-    until: 
-    homepage: https://www.linkedin.com/in/larissa-tonetto-a243aa191/
-    github: https://github.com/larissatonetto
-    level: BsC Student (TCC)
 
   - name: Natascha Siqueira Martinez Palhares
     photo: natascha-palhares.jpeg
@@ -98,6 +74,30 @@
 
 - type: Alumini
   list:
+  - name: Larissa Tonetto
+    photo: larissa-tonetto.jpg
+    since: 2023
+    until: 
+    homepage: https://www.linkedin.com/in/larissa-tonetto-a243aa191/
+    github: https://github.com/larissatonetto
+    level: BsC Student (TCC)
+    
+  - name: Gabriel Bezerra
+    photo: gabriel-bezerra.jpeg
+    since: 2021
+    until: 2024
+    homepage:
+    github: 
+    level: BsC Student and R&D developer
+
+  - name: Luísa de Souza Ferreira
+    photo: luisa-ferreira.jpg
+    since: 2022
+    until: 2024
+    homepage: https://www.linkedin.com/in/lu%C3%ADsa-de-souza-ferreira-8ab4bb217/
+    github: https://github.com/ferreiraluisa
+    level: BsC Student (IC)
+    
   - name: Pedro Roberto de Assis Zara
     photo: pedro-zara.jpg
     since: 2023
