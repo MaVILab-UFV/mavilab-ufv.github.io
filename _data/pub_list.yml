@@ -5,10 +5,10 @@
     media: Disability And Rehabilitation-Assistive Technology, 2024 (TO APPEAR)
     links:
       url: 
-      doi: 
+      doi: https://doi.org/10.1080/17483107.2024.2437567
       arxiv: 
       youtube: 
-      github: 
+      github: https://github.com/daniellf/VIIDA-and-InViDe
 
   - title: "Photo-Realistic and Labeled Synthetic UAV Flight Data Generation Using ROS and Gazebo"
     authors: Lucas Silva, Juliana Quintiliano Ferreira, Paulo Rezeck, Michel Melo Silva, Thiago L. Gomes
