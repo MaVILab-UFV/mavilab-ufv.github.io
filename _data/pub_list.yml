@@ -12,10 +12,10 @@
 
   - title: "Photo-Realistic and Labeled Synthetic UAV Flight Data Generation Using ROS and Gazebo"
     authors: Lucas Silva, Juliana Quintiliano Ferreira, Paulo Rezeck, Michel Melo Silva, Thiago L. Gomes
-    media: 21th IEEE Latin American Robotics Symposium (LARS), 2024 (TO APPEAR)
+    media: 21th IEEE Latin American Robotics Symposium (LARS), 2024 
     links:
       url: 
-      doi: 
+      doi: https://doi.org/10.1109/LARS64411.2024.10786455
       arxiv: 
       youtube: https://youtu.be/6XmiHwqhA9s
       github: https://github.com/MaVILab-UFV/Labeled-Synthetic-UAV-Data_LARS-2024
