@@ -82,46 +82,44 @@ Our lab contains the following items:
         <li data-target="#carousel1" data-slide-to="6"></li>
         <li data-target="#carousel1" data-slide-to="7"></li>
         <li data-target="#carousel1" data-slide-to="8"></li>
-        <li data-target="#carousel1" data-slide-to="9"></li>
-        <li data-target="#carousel1" data-slide-to="10"></li>
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/sliders/lab/servidores.jpg" alt="Slide 2" height="200px" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/sliders/lab/servidores.jpg" alt="Slide 1" height="200px" />
             <span class="page__hero-caption">{{ "RTX servers - 1." | markdownify | remove: "<p>" | remove: "</p>" }}</span>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/sliders/lab/rtx_servers.jpeg" alt="Slide 3" height="200px" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/sliders/lab/rtx_servers.jpeg" alt="Slide 2" height="200px" />
             <span class="page__hero-caption">{{ "RTX servers - 2." | markdownify | remove: "<p>" | remove: "</p>" }}</span>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/sliders/lab/3D_printer.jpeg" alt="Slide 4" height="200px" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/sliders/lab/3D_printer.jpeg" alt="Slide 3" height="200px" />
             <span class="page__hero-caption">{{ "3D printer." | markdownify | remove: "<p>" | remove: "</p>" }}</span>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/sliders/lab/backlight.jpeg" alt="Slide 5" height="200px" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/sliders/lab/backlight.jpeg" alt="Slide 4" height="200px" />
             <span class="page__hero-caption">{{ "Backligth with top view setup." | markdownify | remove: "<p>" | remove: "</p>" }}</span>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/sliders/lab/reconstruction.jpeg" alt="Slide 6" height="200px" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/sliders/lab/reconstruction.jpeg" alt="Slide 5" height="200px" />
             <span class="page__hero-caption">{{ "3D reconstruction setup." | markdownify | remove: "<p>" | remove: "</p>" }}</span>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/sliders/lab/rplidar.jpeg" alt="Slide 7" height="200px" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/sliders/lab/rp_lidar.jpeg" alt="Slide 6" height="200px" />
             <span class="page__hero-caption">{{ "Rp LiDAR." | markdownify | remove: "<p>" | remove: "</p>" }}</span>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/sliders/lab/pinhole_camera.jpeg" alt="Slide 8" height="200px" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/sliders/lab/pinhole_camera.jpeg" alt="Slide 7" height="200px" />
             <span class="page__hero-caption">{{ "Our pinhole camera." | markdownify | remove: "<p>" | remove: "</p>" }}</span>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/sliders/lab/action_camera.jpeg" alt="Slide 9" height="200px" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/sliders/lab/action_camera.jpeg" alt="Slide 8" height="200px" />
             <span class="page__hero-caption">{{ "Action Camera." | markdownify | remove: "<p>" | remove: "</p>" }}</span>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/sliders/lab/kinects.jpeg" alt="Slide 10" height="200px" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/sliders/lab/kinects.jpeg" alt="Slide 9" height="200px" />
             <span class="page__hero-caption">{{ "Xbox Kinects sensors." | markdownify | remove: "<p>" | remove: "</p>" }}</span>
         </div>
     </div>
