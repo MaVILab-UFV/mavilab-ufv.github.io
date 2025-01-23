@@ -27,11 +27,11 @@ Our research interests involve the capture, processing and analysis of visual da
             <img src="{{ site.url }}{{ site.baseurl }}/images/sliders/predios/lab_1.jpeg" alt="Slide 1" height="200px" />
             <span class="page__hero-caption">{{ "Image source: Our Laboratory space." | markdownify | remove: "<p>" | remove: "</p>" }}</span>
         </div>
-        <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/sliders/predios/lab_2.jpeg" alt="Slide 1" height="200px" />
             <span class="page__hero-caption">{{ "Image source: Our Laboratory space." | markdownify | remove: "<p>" | remove: "</p>" }}</span>
         </div>
-        <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/sliders/predios/cce-arvores.jpg" alt="Slide 1" height="200px" />
             <span class="page__hero-caption">{{ "Image source: Flickr user cis_trans98." | markdownify | remove: "<p>" | remove: "</p>" }}</span>
         </div>
