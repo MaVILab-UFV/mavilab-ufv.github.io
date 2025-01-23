@@ -88,11 +88,7 @@ Our lab contains the following items:
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
-        <!-- <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/sliders/lab/laboratorio.jpg" alt="Slide 1" height="200px" />
-            <span class="page__hero-caption">{{ "Our space." | markdownify | remove: "<p>" | remove: "</p>" }}</span>
-        </div> -->
-        <div class="item">
+        <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/sliders/lab/servidores.jpg" alt="Slide 2" height="200px" />
             <span class="page__hero-caption">{{ "RTX servers - 1." | markdownify | remove: "<p>" | remove: "</p>" }}</span>
         </div>
