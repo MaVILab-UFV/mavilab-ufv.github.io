@@ -11,8 +11,8 @@
 .carousel-inner {
   position: relative;
   overflow: hidden;
-  height: 200px;
-  width: auto;
+  max-height: 200px;
+  width: 100%;
 
   > .item {
     display: none;
@@ -86,6 +86,14 @@
     left: 100%;
   }
 
+}
+
+.carousel-inner img {
+  height: auto;
+  max-height: 200px; /* Resizes the image proportionally */
+  width: auto;
+  display: block;
+  margin: auto;
 }
 
 // Left/right controls for nav
