@@ -13,6 +13,9 @@
   overflow: hidden;
   max-height: 400px;
   width: 100%;
+  display: flex; /* Enables flexbox */
+  align-items: center; /* Centers vertically */
+  justify-content: center; /* Centers horizontally */
 
   > .item {
     display: none;
@@ -89,10 +92,10 @@
 }
 
 .carousel-inner img {
-  width: 100%; /* Scale width to fit */
-  height: 100%; /* Scale height to fit */
-  object-fit: cover; /* Ensures proper resizing without distortion */
-  object-position: center;
+  height: auto;
+  max-height: 200px; /* Resizes the image proportionally */
+  width: auto; /* Maintains aspect ratio */
+  display: block;
 }
 
 // Left/right controls for nav
