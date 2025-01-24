@@ -89,11 +89,10 @@
 }
 
 .carousel-inner img {
-  height: auto;
-  max-height: 200px; /* Resizes the image proportionally */
-  width: auto;
-  display: block;
-  margin: auto;
+  width: 100%; /* Scale width to fit */
+  height: 100%; /* Scale height to fit */
+  object-fit: cover; /* Ensures proper resizing without distortion */
+  object-position: center;
 }
 
 // Left/right controls for nav
