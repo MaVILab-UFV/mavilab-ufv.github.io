@@ -39,19 +39,6 @@
           youtube: 
           github:  
 
-  - title: "Development of a low-cost robotic system to aid in teaching Computer Vision."
-    Institution: UFV (Viçosa, Brazil)  
-    Department: Department of Informatics  
-    Student: Dener Vieira Ribeiro 
-    Advisor: Michel Melo da Silva
-    Coadvisor:
-    Keywords: ROS, 3D printing, RC car, Computer Vision, teaching
-    links:
-          url: 
-          youtube: 
-          github:  
-
-
 - year : 2023
   tccs:
   - title: "Identification of Diseases in Soybean Seeds."
