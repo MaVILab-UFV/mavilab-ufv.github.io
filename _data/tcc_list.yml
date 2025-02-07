@@ -1,3 +1,18 @@
+- year : 2025
+  tccs:
+  - title: "Development of a low-cost robotic system to aid in teaching Computer Vision."
+    Institution: UFV (Viçosa, Brazil)  
+    Department: Department of Informatics  
+    Student: Dener Vieira Ribeiro 
+    Advisor: Michel Melo da Silva
+    Coadvisor:
+    Keywords: ROS, 3D printing, RC car, Computer Vision, teaching
+    links:
+          url: 
+          youtube: 
+          github:  
+
+
 - year : 2024
   tccs:
   - title: "Classification of Diseases in Soybean Seeds."
@@ -125,7 +140,7 @@
           url: https://drive.google.com/file/d/15wESE8sJnz-1SoUgIcT5b6-1Buu4Gdtf/view?usp=sharing
           youtube: 
           github:
-- year : 2022
+- year : 2021
   tccs:
   - title: Neural network fine tuning for classification of environments in webinar scenes.  
     Institution: UFV (Viçosa, Brazil)  
