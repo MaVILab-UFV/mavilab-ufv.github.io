@@ -7,22 +7,6 @@
     homepage:
     github: https://github.com/rphln/
     level: BsC and Master Student
-
-  - name: Júlia de Freita Lopes
-    photo: julia-lopes.jpg
-    since: 2022
-    until: 
-    homepage:
-    github:
-    level: High School Student
-
-  - name: Júlia de Paula Vieira
-    photo: julia-vieira.jpg
-    since: 2022
-    until: 
-    homepage:
-    github:
-    level: High School Student
   
   - name: Juliana Quintiliano de Oliveira Ferreira
     photo: juliana-quintiliano.jpg
@@ -39,14 +23,6 @@
     homepage: https://www.linkedin.com/in/gabriel-moreira-82a72b1b3/
     github: https://github.com/eugabrielm
     level: BsC Student (IC and TCC)
-
-  - name: Natascha Siqueira Martinez Palhares
-    photo: natascha-palhares.jpeg
-    since: 2023
-    until: 
-    homepage: http://www.linkedin.com/in/natascha-palhares
-    github: 
-    level: BsC Student (TCC)
  
   - name: João Pedro Pulz de Oliveira
     photo: joao-pulz.jpg
@@ -63,14 +39,6 @@
     homepage: https://www.linkedin.com/in/lucas-silva11
     github: https://github.com/Lucas-silva23
     level: BsC Student (IC)
-  
-  - name: Dener Vieira Ribeiro
-    photo: dener-ribeiro.jpg
-    since: 2024
-    until: 
-    homepage: https://www.linkedin.com/in/deneribeiro10/
-    github: https://github.com/deneribeiro10
-    level: BsC Student (TCC)
   
   - name: Ana Clara Fraga Osias
     photo: ana-osias.png
@@ -106,6 +74,38 @@
 
 - type: Alumini
   list:
+  
+  - name: Dener Vieira Ribeiro
+    photo: dener-ribeiro.jpg
+    since: 2024
+    until: 2025
+    homepage: https://www.linkedin.com/in/deneribeiro10/
+    github: https://github.com/deneribeiro10
+    level: BsC Student (TCC)
+
+  - name: Natascha Siqueira Martinez Palhares
+    photo: natascha-palhares.jpeg
+    since: 2023
+    until: 2025
+    homepage: http://www.linkedin.com/in/natascha-palhares
+    github: 
+    level: BsC Student (TCC)
+
+  - name: Júlia de Freita Lopes
+    photo: julia-lopes.jpg
+    since: 2022
+    until: 2025
+    homepage:
+    github:
+    level: High School Student
+
+  - name: Júlia de Paula Vieira
+    photo: julia-vieira.jpg
+    since: 2022
+    until: 2025
+    homepage:
+    github:
+    level: High School Student
   - name: Larissa Tonetto
     photo: larissa-tonetto.jpg
     since: 2023
