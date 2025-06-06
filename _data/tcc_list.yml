@@ -1,3 +1,29 @@
+- year : 2025
+  tccs:
+  - title: "Computer Vision applied to quality measurements in juice box."
+    Institution: UFV (Viçosa, Brazil)
+    Department: Department of Informatics
+    Student: Ian Otoni Vieira Gomes
+    Advisor: Michel Melo da Silva
+    Coadvisor: Thiago Luange Gomes
+    Keywords: Computer Vision, Image description, Classifiers, Clustering, Soybean 
+    links:
+          url: 
+          youtube: 
+          github:  
+
+  - title: "Semantic Hyperlapse of video from UAV monitoring of rural areas."
+    Institution: UFV (Viçosa, Brazil)
+    Department: Department of Informatics
+    Student: Gabriel Moreira Marques
+    Advisor: Michel Melo da Silva
+    Coadvisor: Thiago Luange Gomes
+    Keywords: Computer Vision, Image description, Classifiers, Clustering, Soybean 
+    links:
+          url: 
+          youtube: 
+          github:  
+
 - year : 2024
   tccs:
   - title: "Classification of Diseases in Soybean Seeds."
