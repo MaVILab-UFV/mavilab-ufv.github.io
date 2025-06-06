@@ -71,6 +71,22 @@
     homepage: https://www.linkedin.com/in/antonio-souza-7a171129b/
     github: https://github.com/Antoniogs1
     level: BsC Student (IC)
+    
+  - name: Kayo de Melo Lage
+    photo: kayo-lage.jpeg
+    since: 2025
+    until: 
+    homepage: https://www.linkedin.com/in/kayo-lage-00a103237/
+    github: https://github.com/kayolage
+    level: BsC Student (IC)
+
+  - name: Rashid Ali 
+    photo: rashid-ali.jpeg
+    since: 2025
+    until: 
+    homepage: 
+    github: 
+    level: PhD International Student
 
 - type: Alumini
   list:
