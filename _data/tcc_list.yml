@@ -1,5 +1,17 @@
 - year : 2025
   tccs:
+  - title: "Semantic Segmentation of Aerial Drone Images via Multitask Learning."
+    Institution: UFV (Viçosa, Brazil)
+    Department: Department of Informatics
+    Student: Lucas Alves Rezende Machado da Silva
+    Advisor: Thiago Luange Gomes
+    Coadvisor: Michel Melo da Silva
+    Keywords: Computer vision, Deep learning, Semantic segmentation, Multitask learning
+    links:
+          url: 
+          youtube: 
+          github:  
+          
   - title: "Computer Vision applied to quality measurements in juice box."
     Institution: UFV (Viçosa, Brazil)
     Department: Department of Informatics
