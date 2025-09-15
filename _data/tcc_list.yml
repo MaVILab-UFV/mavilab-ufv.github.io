@@ -24,6 +24,18 @@
           youtube: 
           github:  
 
+  - title: "Evaluation of 3D Capture Techniques for Detecting Changes in Environments."
+    Institution: UFV (Viçosa, Brazil)
+    Department: Department of Informatics
+    Student: Walter Bueno de Brito Neto
+    Advisor: Thiago Luange Gomes
+    Coadvisor:
+    Keywords: Change Detection, 3D Reconstruction, Point Clouds, 3D Data
+    links:
+          url: https://drive.google.com/file/d/1_J8XhoMO5_G0u1oaYfMRq2XfEqIR85rS/view?usp=drive_link
+          youtube: 
+          github:  
+
 - year : 2024
   tccs:
   - title: "Classification of Diseases in Soybean Seeds."
