@@ -81,7 +81,7 @@
     level: BsC Student (IC)
 
   - name: Caio Cesar Oliveira Candido
-    photo: caio-candido.jpeg
+    photo: caio-candido.jpg
     since: 2025
     until: 
     homepage: https://www.linkedin.com/in/caio-cesar-oliveira-candido-616ab1368/
@@ -95,6 +95,14 @@
     homepage: 
     github: 
     level: PhD International Student
+
+  - name: Willison Pinto da Silva
+    photo: willison_silva.png
+    since: 2025
+    until: 
+    homepage: https://www.linkedin.com/in/willison-pinto-da-silva-6b72b22a8/
+    github: https://github.com/willisonpintodasilva-sys
+    level: Master Student
 
 - type: Alumini
   list:
