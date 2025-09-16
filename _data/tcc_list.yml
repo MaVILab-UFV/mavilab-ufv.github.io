@@ -1,5 +1,17 @@
 - year : 2025
   tccs:
+  - title: "Using Synthectic Data for Fire Detection in Farm monitoring task."
+    Institution: UFV (Viçosa, Brazil)
+    Department: Department of Informatics
+    Student: Antonio Gabriel Souza Gomes
+    Advisor: Michel Melo da Silva
+    Coadvisor: Thiago Luange Gomes
+    Keywords: Computer Vision, Synthetic Data, Fire Detection, Object Detection, Semantic Segmentation
+    links:
+          url: 
+          youtube: 
+          github:  
+          
   - title: "Semantic Segmentation of Aerial Drone Images via Multitask Learning."
     Institution: UFV (Viçosa, Brazil)
     Department: Department of Informatics
