@@ -104,6 +104,14 @@
     github: https://github.com/willisonpintodasilva-sys
     level: Master Student
 
+  - name: Sarah Carvalho Alves
+    photo: sara-alves.jpg
+    since: 2025
+    until: 
+    homepage: https://www.linkedin.com/in/sarah-c-alves/
+    github: https://github.com/scarvalh
+    level: BsC Student (TCC 2021-2022) and Master Student
+
 - type: Alumini
   list:
   
@@ -249,14 +257,6 @@
     homepage: http://linkedin.com/in/bruno-nascimento-1379b571
     github:
     level: Master Student
-
-  - name: Sarah Carvalho Alves
-    photo: sara-alves.jpg
-    since: 2021
-    until: 2022
-    homepage: https://www.linkedin.com/in/sarah-c-alves/
-    github: https://github.com/scarvalh
-    level: BsC Student (TCC)
 
   - name: Manoela Werneck Auad
     photo: manoela-auad.jpeg
