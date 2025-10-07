@@ -2,10 +2,10 @@
   pubs:
   - title: "A Framework for Semantic and Musical Hyperlapses"
     authors: Raphael Nepomuceno, Luísa Ferreira, Michel Silva
-    media: Journal of the Brazilian Computer Society, 2025 (TO APPEAR)
+    media: Journal of the Brazilian Computer Society, 2025
     links:
-      url: 
-      doi: 
+      url: https://journals-sol.sbc.org.br/index.php/jbcs/article/view/5845
+      doi: https://doi.org/10.5753/jbcs.2025.5845
       arxiv: 
       youtube: 
       github: 
@@ -19,7 +19,26 @@
       arxiv: 
       youtube: 
       github: 
+      
+  - title: "Segmentação Automatizada de Copas Arbóreas em Florestas Tropicais: Aplicações de Modelos de Aprendizado Profundo com YOLOv8"
+    authors: Pedro Alves Marques, Luiana Rolim de Azevedo, Marcelo Nunes Vilas Boas, Pedro Henrique Fontes dos Santos, Michel Melo da Silva, Helio Garcia Leite
+    media: VII MENSUFLOR, 2025
+    links:
+      url: https://mensuflor.ufla.br/index.php/evento/article/view/113
+      doi: 
+      arxiv: 
+      youtube: 
+      github: 
 
+  - title: "Captar-Libras: A Bidirectional Translator with a Photorealistic Avatar for Medical Pre-consultation of Deaf Patients"
+    authors: Natália Sales Santos, Lucas Almeida S de Souza, Ari Gonçalves da Silva Filho, Paulo H de S Coelho, Maria Clara de A Ferreira, Cauã Magalhães Pereira, Bruno de S Lages, Raniere AA Cordeiro, Elidéa Lucia Almeida Bernardino, Milena S Marcolino, Raphael CS Nepomuceno, Michel M da Silva, Thiago L Gomes, Erickson R do Nascimento, Douglas G Macharet, Raquel O Prates, Mario FM Campos
+    media: IFIP Conference on Human-Computer Interaction, 2025 (TO APPEAR)
+    links:
+      url: https://link.springer.com/chapter/10.1007/978-3-032-05008-3_23
+      doi: https://doi.org/10.1007/978-3-032-05008-3_23
+      arxiv: 
+      youtube: 
+      github: 
 
 - year : 2024
   pubs:
