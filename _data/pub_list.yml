@@ -10,12 +10,122 @@
       youtube: https://youtu.be/PIJ8Iq1Y0SE
       github: 
       
+  - title: "Advancing agricultural remote sensing: A comprehensive review of deep supervised and Self-Supervised Learning for crop monitoring"
+    authors: Mateus Pinto da Silva, Sabrina P.L.P. Correa, Mariana A.R. Schaefer, Julio C.S. Reis, Ian M. Nunes, Jefersson A. dos Santos, Hugo N. Oliveira
+    media: Computers & Graphics, 2025 
+    links:
+      url: 
+      doi: https://doi.org/10.1016/j.cag.2025.104434
+      arxiv: 
+      youtube: 
+      github: 
+      
+  - title: "A Lightweight Pipeline for Crop Time-Series Parcel Classification via Self-Supervision"
+    authors: Mateus Pinto da Silva , Lucas Vieira , Cleverton T. C. de Santana , Ian M. Nunes , Jefersson A. Dos Santos , and Hugo N. Oliveira
+    media: IEEE GEOSCIENCE AND REMOTE SENSING LETTERS, 2025 
+    links:
+      url: 
+      doi: https://doi.org/10.1109/LGRS.2025.3589176
+      arxiv: 
+      youtube: 
+      github: 
+      
   - title: "A Study of Synthetic and Cross-Domain Real-Data Pre-Training for Aerial Farm Monitoring"
     authors: Juliana Ferreira, Lucas Silva, Antônio Gomes, Larissa Rodrigues, Thiago Luange, Michel Silva
     media: 38th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), 2025 (TO APPEAR)
     links:
       url: 
       doi: 
+      arxiv: 
+      youtube: 
+      github: 
+      
+  - title: "Strategies for Deep Learning in Volumetric Medical Imaging: A Survey"
+    authors: Joao Vitor S. de Oliveira, Danilo F. Vieira, Mateus P. da Silva, Daniel L. Fernandes, Marcos H. F. Ribeiro, Hugo N
+    media: 38th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI) - Tutorial, 2025 (TO APPEAR)
+    links:
+      url: http://sibgrapi.sid.inpe.br/col/sid.inpe.br/sibgrapi/2025/09.15.00.46/doc/2025_SIBGRAPI_Tutorial_Medical_Camera_Ready%20(1).pdf
+      doi: 
+      arxiv: 
+      youtube: 
+      github: 
+      
+  - title: "FPVcar: An Affordable Robotic Platform to Support Computer Vision Education, from Hardware Design to User-Friendly Programming"
+    authors: Júlia Galvão, Dener Ribeiro, Celso Barcelos, Raiene Cunha, Pablo Mendes, Vitor Koch, Osney Matos, Michel Silva
+    media: 22nd Latin American Robotics Symposium (LARS), 2025 (TO APPEAR)
+    links:
+      url: 
+      doi: 
+      arxiv: 
+      youtube: 
+      github: 
+      
+  - title: "Two-Stage Fine-Tuning of Object Detectors for Industrial Environments"
+    authors: Gabriel Marques, Ian Gomes, Michel Silva, Thiago Gomes
+    media: Revista de Informática Teórica e Aplicada (RITA), 2025 (TO APPEAR)
+    links:
+      url: 
+      doi: 
+      arxiv: 
+      youtube: 
+      github: 
+      
+  - title: "Automated Analysis of Packaging Seal Failures Using Computer Vision Techniques"
+    authors: Ana Clara Osias, Ian Gomes, Michel Silva, Thiago Gomes
+    media: Revista de Informática Teórica e Aplicada (RITA), 2025 (TO APPEAR)
+    links:
+      url: 
+      doi: 
+      arxiv: 
+      youtube: 
+      github: 
+      
+  - title: "Federated Semantic Segmentation of Synthetic UAV Imagery under Non-IID Conditions"
+    authors: Victor Vieira, Emanuel Martins, Juliana Ferreira, Thiago Luange Gomes, Michel Melo Silva, Rodrigo Moreira, Larissa Rodrigues Moreira
+    media: Revista de Informática Teórica e Aplicada (RITA), 2025 (TO APPEAR)
+    links:
+      url: 
+      doi: 
+      arxiv: 
+      youtube: 
+      github: 
+      
+  - title: "Human Gesture Recognition using CNNs for Human-Robot Interaction"
+    authors: Werikson Alves, Michel Silva, Alexandre Brandão
+    media: Revista de Informática Teórica e Aplicada (RITA), 2025 (TO APPEAR)
+    links:
+      url: 
+      doi: 
+      arxiv: 
+      youtube: 
+      github: 
+      
+  - title: "Comparison of Low-Cost 3D Reconstruction Techniques for Change Detection in Indoor Environments"
+    authors: Walter Neto, Michel Silva, Thiago Gomes
+    media: Revista de Informática Teórica e Aplicada (RITA), 2025 (TO APPEAR)
+    links:
+      url: 
+      doi: 
+      arxiv: 
+      youtube: 
+      github:  
+      
+  - title: "Sign Language Segmentation Models and Their Impact on Automatic Translation Systems"
+    authors: Walter Neto, Michel Silva, Thiago Gomes
+    media: Revista de Informática Teórica e Aplicada (RITA), 2025 (TO APPEAR)
+    links:
+      url: 
+      doi: 
+      arxiv: 
+      youtube: 
+      github: 
+      
+  - title: "Assessing the Potential of Large Language Models (LLMs) for the Automatic Generation of Solutions for Programming Exercises"
+    authors: André N. Alcantara, Mateus P. Silva, Hugo N. Oliveira, Julio C. S. Reis
+    media: Anais Estendidos do Simpósio Brasileiro de Sistemas Multimídia e Web (WebMedia) - Concurso de Trabalhos de Iniciação Científica, 2025 
+    links:
+      url: 
+      doi: https://doi.org/10.5753/webmedia_estendido.2025.16422
       arxiv: 
       youtube: 
       github: 
