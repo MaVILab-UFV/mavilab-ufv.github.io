@@ -1,5 +1,15 @@
 - year : 2025
   pubs:
+  - title: "UnMimic: An Automatic Pipeline for Transferring Body Movements to a Photorealistic Unreal Avatar"
+    authors: Luísa Ferreira, Gabriel Moreira, Mario Campos, Thiago Luange, Michel Silva
+    media: International Conference on Virtual Reality and Visualization, 2025 (TO APPEAR)
+    links:
+      url: 
+      doi: 
+      arxiv: 
+      youtube: 
+      github: https://github.com/MaVILab-UFV/UnMimic_ICVRV_2025
+      
   - title: "A Framework for Semantic and Musical Hyperlapses"
     authors: Raphael Nepomuceno, Luísa Ferreira, Michel Silva
     media: Journal of the Brazilian Computer Society, 2025
@@ -32,13 +42,13 @@
       
   - title: "A Study of Synthetic and Cross-Domain Real-Data Pre-Training for Aerial Farm Monitoring"
     authors: Juliana Ferreira, Lucas Silva, Antônio Gomes, Larissa Rodrigues, Thiago Luange, Michel Silva
-    media: 38th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), 2025 (TO APPEAR)
+    media: 38th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), 2025
     links:
       url: http://sibgrapi.sid.inpe.br/col/sid.inpe.br/sibgrapi/2025/09.12.18.25/doc/Ferreira-77.pdf
       doi: https://doi.org/10.1109/SIBGRAPI67909.2025.11223377
       arxiv: 
       youtube: 
-      github: 
+      github: https://github.com/MaVILab-UFV/A_Study_of_Synthetic_and_Cross_Domain_SIBGRAPI_2025
       
   - title: "Strategies for Deep Learning in Volumetric Medical Imaging: A Survey"
     authors: Joao Vitor S. de Oliveira, Danilo F. Vieira, Mateus P. da Silva, Daniel L. Fernandes, Marcos H. F. Ribeiro, Hugo N
