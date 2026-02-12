@@ -68,7 +68,7 @@
       doi: https://doi.org/10.1109/LARS69345.2025.11273008
       arxiv: 
       youtube: 
-      github: 
+      github: https://github.com/MaVILab-UFV/FPVCar_LARS-2025/
       
   - title: "Two-Stage Fine-Tuning of Object Detectors for Industrial Environments"
     authors: Gabriel Marques, Ian Gomes, Michel Silva, Thiago Gomes
