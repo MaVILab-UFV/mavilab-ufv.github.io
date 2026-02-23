@@ -61,14 +61,15 @@ To this end, we propose and evaluate the development of methods, algorithms and 
 We are located in room 411 at CCE@UFV bulding.  
 
 
-Our lab contains the following items:  
-- Video Cards (RTX 4090 and RTX 4070ti)  
+Our lab is equipped with the following items:  
+- Video Cards (RTX 5090, 4090, and 4070ti)  
 - Xbox 360 and Kinect sensor  
 - 3D Printer Sethi FARM  
-- RGB-d Sensor Intel Realsense D-435i  
+- RGB-d Sensor Intel Realsense D-435i
+- RPLIDAR A2M12
 - Logitech webcameras C922  
 - Backlight table  
-- Arduinos and components
+- Microcontrolers (Arduino and ESP32) and components
 
 <div markdown="0" id="carousel1" class="carousel slide" data-ride="carousel1" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
