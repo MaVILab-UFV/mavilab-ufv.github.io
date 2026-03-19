@@ -2,10 +2,10 @@
   pubs:
   - title: "UnMimic: An Automatic Pipeline for Transferring Body Movements to a Photorealistic Unreal Avatar"
     authors: Luísa Ferreira, Gabriel Moreira, Mario Campos, Thiago Luange, Michel Silva
-    media: International Conference on Virtual Reality and Visualization, 2025 (TO APPEAR)
+    media: International Conference on Virtual Reality and Visualization, 2025
     links:
       url: 
-      doi: 
+      doi: https://doi.org/10.1109/ICVRV67992.2025.00174
       arxiv: 
       youtube: 
       github: https://github.com/MaVILab-UFV/UnMimic_ICVRV_2025
@@ -52,7 +52,7 @@
       
   - title: "Strategies for Deep Learning in Volumetric Medical Imaging: A Survey"
     authors: Joao Vitor S. de Oliveira, Danilo F. Vieira, Mateus P. da Silva, Daniel L. Fernandes, Marcos H. F. Ribeiro, Hugo N
-    media: 38th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI) - Tutorial, 2025 (TO APPEAR)
+    media: 38th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI) - Tutorial, 2025 
     links:
       url: http://sibgrapi.sid.inpe.br/col/sid.inpe.br/sibgrapi/2025/09.15.00.46/doc/2025_SIBGRAPI_Tutorial_Medical_Camera_Ready%20(1).pdf
       doi: 
@@ -72,60 +72,60 @@
       
   - title: "Two-Stage Fine-Tuning of Object Detectors for Industrial Environments"
     authors: Gabriel Marques, Ian Gomes, Michel Silva, Thiago Gomes
-    media: Revista de Informática Teórica e Aplicada (RITA), 2025 (TO APPEAR)
+    media: Revista de Informática Teórica e Aplicada (RITA), 2025 
     links:
-      url: 
-      doi: 
+      url: https://seer.ufrgs.br/rita/article/view/150904
+      doi: https://doi.org/10.22456/2175-2745.150904
       arxiv: 
       youtube: 
       github: 
       
   - title: "Automated Analysis of Packaging Seal Failures Using Computer Vision Techniques"
     authors: Ana Clara Osias, Ian Gomes, Michel Silva, Thiago Gomes
-    media: Revista de Informática Teórica e Aplicada (RITA), 2025 (TO APPEAR)
+    media: Revista de Informática Teórica e Aplicada (RITA), 2025 
     links:
-      url: 
-      doi: 
+      url: https://seer.ufrgs.br/rita/article/view/150833
+      doi: https://doi.org/10.22456/2175-2745.150833
       arxiv: 
       youtube: 
       github: 
       
   - title: "Federated Semantic Segmentation of Synthetic UAV Imagery under Non-IID Conditions"
     authors: Victor Vieira, Emanuel Martins, Juliana Ferreira, Thiago Luange Gomes, Michel Melo Silva, Rodrigo Moreira, Larissa Rodrigues Moreira
-    media: Revista de Informática Teórica e Aplicada (RITA), 2025 (TO APPEAR)
+    media: Revista de Informática Teórica e Aplicada (RITA), 2025 
     links:
-      url: 
-      doi: 
+      url: https://seer.ufrgs.br/rita/article/view/150921
+      doi: https://doi.org/10.22456/2175-2745.150921
       arxiv: 
       youtube: 
       github: 
       
   - title: "Human Gesture Recognition using CNNs for Human-Robot Interaction"
     authors: Werikson Alves, Michel Silva, Alexandre Brandão
-    media: Revista de Informática Teórica e Aplicada (RITA), 2025 (TO APPEAR)
+    media: Revista de Informática Teórica e Aplicada (RITA), 2025 
     links:
-      url: 
-      doi: 
+      url: https://seer.ufrgs.br/rita/article/view/150950
+      doi: https://doi.org/10.22456/2175-2745.150950
       arxiv: 
       youtube: 
       github: 
       
   - title: "Comparison of Low-Cost 3D Reconstruction Techniques for Change Detection in Indoor Environments"
     authors: Walter Neto, Michel Silva, Thiago Gomes
-    media: Revista de Informática Teórica e Aplicada (RITA), 2025 (TO APPEAR)
+    media: Revista de Informática Teórica e Aplicada (RITA), 2025 
     links:
-      url: 
-      doi: 
+      url: https://seer.ufrgs.br/rita/article/view/150907
+      doi: https://doi.org/10.22456/2175-2745.150907
       arxiv: 
       youtube: 
       github:  
       
   - title: "Sign Language Segmentation Models and Their Impact on Automatic Translation Systems"
     authors: Jéssica Ramos, Michel Silva, Mario Campos
-    media: Revista de Informática Teórica e Aplicada (RITA), 2025 (TO APPEAR)
+    media: Revista de Informática Teórica e Aplicada (RITA), 2025 
     links:
-      url: 
-      doi: 
+      url: https://seer.ufrgs.br/rita/article/view/150939
+      doi: https://doi.org/10.22456/2175-2745.150939
       arxiv: 
       youtube: 
       github: 
