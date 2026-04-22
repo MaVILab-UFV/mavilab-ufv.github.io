@@ -1,3 +1,16 @@
+- year : 2026
+  pubs:
+  - title: "A WebRTC-Based Architecture for Remote Monitoring of Mobile Robots"
+    authors: Gabriel Víctor Muniz, Alexandre Santos Brandão, Michel Melo Silva
+    media: Brazilian Conference on Robotics (CROS), 2026 (TO APPEAR)
+    links:
+      url: 
+      doi: 
+      arxiv: 
+      youtube: 
+      github: 
+      
+
 - year : 2025
   pubs:
   - title: "UnMimic: An Automatic Pipeline for Transferring Body Movements to a Photorealistic Unreal Avatar"
