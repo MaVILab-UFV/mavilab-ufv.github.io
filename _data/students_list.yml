@@ -29,7 +29,7 @@
     since: 2024
     until: 
     homepage: www.linkedin.com/in/júliag-matos
-    github: 
+    github: https://github.com/jucalia
     level: BsC Student (IC)
   
   - name: Ian Otoni Vieira Gomes
@@ -37,8 +37,8 @@
     since: 2024
     until: 
     homepage: http://www.linkedin.com/in/ian-otoni
-    github: 
-    level: BsC Student (TCC)
+    github: https://github.com/IanOtoni
+    level: BsC Student (IC and TCC) and Researcher 
     
   - name: Kayo de Melo Lage
     photo: kayo-lage.jpeg
@@ -87,6 +87,22 @@
     homepage: https://www.linkedin.com/in/brunosette-
     github: https://github.com/brunosettee
     level: BsC Student (IC)
+
+  - name: Víctor Emmanuel Olmi Louzada
+    photo: victor_louzada.png
+    since: 2026
+    until: 
+    homepage: https://www.linkedin.com/in/victor-emmanuel-louzada
+    github: https://github.com/Victorlolmi
+    level: Master Student
+
+  - name: Paulo Henrique de Souza Castro
+    photo: paulo_castro.png
+    since: 2026
+    until: 
+    homepage: https://www.linkedin.com/in/paulo-henrique-de-souza-castro-30a85b28a/
+    github: https://github.com/Dev-PHSC
+    level: BsC Student 
 
 - type: Alumini
   list:
