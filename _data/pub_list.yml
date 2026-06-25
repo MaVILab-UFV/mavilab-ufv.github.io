@@ -2,10 +2,10 @@
   pubs:
   - title: "A WebRTC-Based Architecture for Remote Monitoring of Mobile Robots"
     authors: Gabriel Víctor Muniz, Alexandre Santos Brandão, Michel Melo Silva
-    media: Brazilian Conference on Robotics (CROS), 2026 (TO APPEAR)
+    media: Brazilian Conference on Robotics (CROS), 2026 
     links:
       url: 
-      doi: 
+      doi: https://doi.org/10.1109/CROS69211.2026.11565702
       arxiv: 
       youtube: 
       github: 
