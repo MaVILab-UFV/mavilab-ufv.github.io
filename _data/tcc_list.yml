@@ -1,3 +1,30 @@
+- year : 2026
+  tccs:
+  - title: "Semantic Hyperlapse of video from UAV monitoring of rural areas."
+    Institution: UFV (Viçosa, Brazil)
+    Department: Department of Informatics
+    Student: Gabriel Moreira Marques
+    Advisor: Michel Melo da Silva
+    Coadvisor: Thiago Luange Gomes
+    Keywords: Computer Vision, Hyperlapse, Semantic Segmentation, Summarization, rural areas 
+    links:
+          url: https://drive.google.com/file/d/13iICa_mLdkQ5QBaHXyyvwQmEjGfA-QbO/view?usp=sharing
+          youtube: 
+          github:  
+
+  - title: "Disponibilização de plataforma robótica de baixo custo em ambiente de simulação."
+    Institution: UFV (Viçosa, Brazil)
+    Department: Department of Informatics
+    Student: Júlia Galvão Matos
+    Advisor: Michel Melo da Silva
+    Coadvisor: Thiago Luange Gomes
+    Keywords: Computer Vision, Robotics, Simulation, ROS, Gazebo
+    links:
+          url: 
+          youtube: 
+          github:  
+   
+
 - year : 2025
   tccs:        
   - title: "Semantic Segmentation of Aerial Drone Images via Multitask Learning."
@@ -20,19 +47,7 @@
     Coadvisor: Thiago Luange Gomes
     Keywords: Computer Vision, Image description, Classifiers, Clustering, Soybean 
     links:
-          url: 
-          youtube: 
-          github:  
-
-  - title: "Semantic Hyperlapse of video from UAV monitoring of rural areas."
-    Institution: UFV (Viçosa, Brazil)
-    Department: Department of Informatics
-    Student: Gabriel Moreira Marques
-    Advisor: Michel Melo da Silva
-    Coadvisor: Thiago Luange Gomes
-    Keywords: Computer Vision, Image description, Classifiers, Clustering, Soybean 
-    links:
-          url: https://drive.google.com/file/d/13iICa_mLdkQ5QBaHXyyvwQmEjGfA-QbO/view?usp=sharing
+          url: https://drive.google.com/file/d/11lApqvYU5iRBijlRvB4iOMu032YRjfPd/view?usp=sharing
           youtube: 
           github:  
 
