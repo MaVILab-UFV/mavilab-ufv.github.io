@@ -1,20 +1,12 @@
 - type: Students
   list:
-  - name: Gabriel Moreira Marques
-    photo: gabriel-marques.jpeg
-    since: 2023
-    until: 
-    homepage: https://www.linkedin.com/in/gabriel-moreira-82a72b1b3/
-    github: https://github.com/eugabrielm
-    level: BsC Student (IC and TCC)
- 
   - name: João Pedro Pulz de Oliveira
     photo: joao-pulz.jpg
     since: 2023
     until: 
     homepage: https://www.linkedin.com/in/jopzoli/
     github: https://github.com/johnpolsh
-    level: BsC Student (IC)
+    level: BsC (IC) and Master Student
   
   - name: Ana Clara Fraga Osias
     photo: ana-osias.png
@@ -30,7 +22,7 @@
     until: 
     homepage: www.linkedin.com/in/júliag-matos
     github: https://github.com/jucalia
-    level: BsC Student (IC)
+    level: BsC Student (IC and TCC)
   
   - name: Ian Otoni Vieira Gomes
     photo: ian-otoni.jpeg
@@ -102,10 +94,42 @@
     until: 
     homepage: https://www.linkedin.com/in/paulo-henrique-de-souza-castro-30a85b28a/
     github: https://github.com/Dev-PHSC
-    level: BsC Student 
+    level: BsC Student
+
+  - name: Pedro Henrique Carvalho Martins
+    photo: pedro-martins.jpeg
+    since: 2026
+    until: 
+    homepage: http://www.linkedin.com/in/pedro-henrique-c-martins
+    github: https://github.com/pedromtns-dev
+    level: BsC Student (IC)
+
+  - name: Luigi Martins Chizzotti
+    photo: luigi-chizzotti.jpeg
+    since: 2026
+    until: 
+    homepage: https://www.linkedin.com/in/luigi-chizzotti/
+    github: https://github.com/LuigiChizzotti
+    level: BsC Student (IC Voluntary)
+
+  - name: Clara Rodrigues de Oliveira
+    photo: clara-oliveira.jpeg
+    since: 2026
+    until: 
+    homepage: https://www.linkedin.com/in/clara-oliveira-567a87347/ 
+    github: https://github.com/claraoliveira14 
+    level: BsC Student (IC Voluntary)
 
 - type: Alumini
   list:
+  - name: Gabriel Moreira Marques
+    photo: gabriel-marques.jpeg
+    since: 2023
+    until: 
+    homepage: https://www.linkedin.com/in/gabriel-moreira-82a72b1b3/
+    github: https://github.com/eugabrielm
+    level: BsC Student (IC and TCC)
+    
   - name: Antonio Gabriel Souza Gomes
     photo: antonio-gomes.jpg
     since: 2024
