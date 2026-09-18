@@ -23,14 +23,6 @@
     homepage: www.linkedin.com/in/júliag-matos
     github: https://github.com/jucalia
     level: BsC Student (IC and TCC)
-  
-  - name: Ian Otoni Vieira Gomes
-    photo: ian-otoni.jpeg
-    since: 2024
-    until: 
-    homepage: http://www.linkedin.com/in/ian-otoni
-    github: https://github.com/IanOtoni
-    level: BsC Student (IC and TCC) and Researcher 
     
   - name: Kayo de Melo Lage
     photo: kayo-lage.jpeg
@@ -129,7 +121,15 @@
     homepage: https://www.linkedin.com/in/gabriel-moreira-82a72b1b3/
     github: https://github.com/eugabrielm
     level: BsC Student (IC and TCC)
-    
+      
+  - name: Ian Otoni Vieira Gomes
+    photo: ian-otoni.jpeg
+    since: 2024
+    until: 2026
+    homepage: http://www.linkedin.com/in/ian-otoni
+    github: https://github.com/IanOtoni
+    level: BsC Student (IC and TCC) and Researcher 
+        
   - name: Antonio Gabriel Souza Gomes
     photo: antonio-gomes.jpg
     since: 2024
